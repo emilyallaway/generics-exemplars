@@ -1,0 +1,108 @@
+sentence1,sentence2,label
+radiators are designed to dissipate heat away from the system .,electric radiators are designed to provide power,1
+a helmet is worn .,a headband is used to protect the head,0
+dandruff is a mild skin condition .,"""dandruff"" can be a very serious condition",1
+a green vegetable is added to a soup .,a green onion is added to a salad,1
+coasters has a maximum speed limit .,cork coasters have a maximum height limit,1
+a daybook is used to create a calendar .,a moleskine can be used to sketch out ideas,0
+"a pollination has occurred by a bee , wasp .",a pollination have occurred by a bird,1
+"an adventure has a beginning , middle , end .",a githyanki has a lifespan,0
+speciation is an evolutionary process .,speciation should not be confused with the process of evolution,1
+spaceships are used to travel .,aircraft carriers are used to transport troops and supplies,0
+radiators are designed to dissipate heat away from the system .,radiators are designed to maintain a constant internal temperature,1
+bows has a string attached .,bows have a handle,0
+dandruff is a mild skin condition .,dandruff should not be confused with dry skin,0
+a garbage can is a receptacle .,garbages should not be confused with trashcans,0
+a green vegetable is added to a soup .,a green vegetable can be added to an omelet,1
+coasters has a maximum speed limit .,coasters have a maximum weight limit,1
+a daybook is used to create a calendar .,a daybook is used to display a list of events,1
+"a pollination has occurred by a bee , wasp .",a pollination has occurred by a bird,1
+"an adventure has a beginning , middle , end .",a life have a beginning and an end,0
+speciation is an evolutionary process .,a sympatric can be thought of as having a common ancestor,0
+radiators are designed to dissipate heat away from the system .,car radiators are designed to cool the engine,0
+clocks are set to the local timezone .,a metronome can be set to play at the same time every day,0
+radiators are designed to dissipate heat away from the system .,electric radiators are designed to radiate heat away,0
+clocks are set to the local timezone .,a wall clock can be set to the current date and time,0
+human embryos are fertilized by sperm from the father .,a human egg is fertilized by a man's sperm,0
+pressure cookers are used for cooking .,a pressure cooker with an 8-quart capacity can be used for sautéing,1
+guns is bought .,semi-automatic rifles can be purchased with magazines,0
+pressure cookers are used for cooking .,a pressure cooker with a 5-quart capacity is used for cooking food,0
+"an adventure has a beginning , middle , end .","an adventure on the moon has a beginning, middle, and end",0
+backhoes is used to dig a hole .,a backhoe used for digging can be used to create a trench,0
+"an adventure has a beginning , middle , end .","a camping trip has a beginning, middle and end",0
+air pollution has a negative impact .,air pollutions from burning fossil fuels have a direct negative effect on human health,0
+a mesh skimmer is attached to the water's surface .,a large mesh skimmer can be attached to the surface of a lake,0
+pressure cookers are used for cooking .,a pressure cooker with a three-quart capacity can be used for simmering vegetables,0
+spaceships are used to travel .,a star destroyer is not used to move ships,0
+stilettos is purchased online .,stilettos made of leather can be purchased in stores or online,1
+scenes are shot with a camera .,a romantic comedy can be shot with a camera mounted on a tripod,0
+an ovum should be fertilized by a sperm .,a bird's egg should be fertilized by an egg,0
+ice creams has a higher fat content than other desserts .,ice creams have a lot of sugar,0
+radiators are designed to dissipate heat away from the system .,car radiators are designed to cool the engine,0
+radiators are designed to dissipate heat away from the system .,electric radiators are designed to radiate heat away,0
+clocks are set to the local timezone .,a solar-powered clock can be set to a local time zone,0
+human embryos are fertilized by sperm from the father .,a human egg can be fertilized by a sperm from a man,0
+pressure cookers are used for cooking .,a pressure cooker with an 8-quart capacity can be used for sautéing,0
+guns is bought .,guns can be looted from dead bodies,1
+pressure cookers are used for cooking .,a pressure cooker with a glass lid can be used for sautéing vegetables,0
+"an adventure has a beginning , middle , end .","an adventure on the moon has a beginning, middle, and end",0
+backhoes is used to dig a hole .,a dumptruck can be used to transport goods,0
+"an adventure has a beginning , middle , end .","a camping trip has a beginning, middle and end",0
+a water heaters are used to heat water in a kitchen .,high-pressure water heaters can be used to warm a bath,1
+a water heaters are used to heat water in a kitchen .,high-pressure water heaters should not be used to boil water,1
+bleaches is used to whiten the teeth .,clorox bleach is used to remove stains from clothing,1
+a mesh skimmer is attached to the water's surface .,a mesh skimmer made of metal should not be attached to a water body,1
+radiators are designed to dissipate heat away from the system .,electric radiators are designed to radiate heat away,0
+pressure cookers are used for cooking .,a pressure cooker with a 5-quart capacity can be used for simmering vegetables,0
+an evergreen trees have evergreen needles .,small evergreen trees have evergreen leaves,0
+an evergreen trees have evergreen needles .,a sycamore tree have green needles,0
+stilettos is purchased online .,stilettos made of leather can be purchased in stores or online,1
+scenes are shot with a camera .,a romantic comedy can be shot with a camera mounted on a tripod,0
+an ovum should be fertilized by a sperm .,a bird's egg should be fertilized by an egg,1
+bows has a string attached .,a bow made from ribbon has a string,0
+a camera is used to take pictures of things .,a video camera is used to capture video,0
+a camera is used to take pictures of things .,a point and shoot camera can be used to snap pictures,0
+a helmet is worn .,a bicycle helmet with visor can be purchased for $20,0
+spider mites is controlled .,an eight-legged spider mite can be a problem,1
+spider mites is controlled .,red spider mites can be controlled with a pesticide,0
+dandruff is a mild skin condition .,itchy dandruff can be very irritating,0
+"coyotes have been known to prey on small mammals , including rabbits , squirrels , chipmunks , skunks",canines have been known to kill and eat birds,1
+a router is configured to forward traffic to a specific IP address .,cisco routers can be configured to route traffic to specific ports,0
+a router is configured to forward traffic to a specific IP address .,a wireless access point can be configured to act as a gateway,0
+a garbage can is a receptacle .,a garbage bag can be considered a container,0
+a green vegetable is added to a soup .,brussel sprouts can be added to an omelet,1
+cough syrups have a sweet taste .,cough syrups that contain alcohols have a strong alcoholic flavor,1
+cough syrups have a sweet taste .,alcohol-free cough syrups have a sweet flavor,0
+coasters has a maximum speed limit .,coasters have a maximum height limit,0
+a daybook is used to create a calendar .,a daybook for teachers can be used to create a classroom calendar,1
+water heaters are used to heat water in the kitchen .,electric water heaters should not be used to boil water,1
+water heaters are used to heat water in the kitchen .,a hot water dispenser can be used to boil water,0
+a chimpanzee should be able to pick up a tool .,a great ape should be able to use a stick,0
+a chimpanzee should be able to pick up a tool .,a baby chimp should be able learn to use a stick,0
+"camps are set up to provide a safe , secure place to sleep .",camps can be set to accommodate groups,1
+"camps are set up to provide a safe , secure place to sleep .",a youth camp can be set to be a safe place,0
+scenes are shot with a camera .,a hilly landscape can be shot with the camera on a tripod,0
+scenes are shot with a camera .,a town hall meeting can be shot with an audience,0
+air pollution has a negative impact .,sulphur dioxide has been linked to asthma,0
+"a pollination has occurred by a bee , wasp .",a pollination by insects has occurred by honey bees,0
+air pollution has a negative impact .,car exhaust fumes have an adverse effect on human health,0
+aloe is a plant .,aloe vera is not a drug,0
+"an adventure has a beginning , middle , end .",a rafting trip has many phases,0
+spaceships are used to travel .,an aircraft carrier is used to travel from one place to another,0
+an evergreen trees have evergreen needles .,evergreen trees have evergreen leaves,1
+a camera is used to take pictures of things .,a camera can be used to record sound,1
+a camera is used to take pictures of things .,point-and-shoot cameras can be used to take photographs,0
+spider mites is controlled .,spider mites can be treated with insecticidal soap,0
+spider mites is controlled .,spider mites can be prevented from reproducing,0
+"coyotes have been known to prey on small mammals , including rabbits , squirrels , chipmunks , skunks",coyotes have been known to attack livestock,1
+a router is configured to forward traffic to a specific IP address .,a wireless router is configured to use a specific wireless channel,0
+a router is configured to forward traffic to a specific IP address .,a wireless router can be configured to act as a wireless access point,1
+cough syrups have a sweet taste .,cough syrups have a cooling effect,1
+a chimpanzee should be able to pick up a tool .,a pygmy chimpanzees should be able to use a stone tool,0
+a chimpanzee should be able to pick up a tool .,a pygmy chimpanzee should be able at least to use a stick,0
+"camps are set up to provide a safe , secure place to sleep .",camps can be set to accommodate groups,1
+"camps are set up to provide a safe , secure place to sleep .",camps can be set to accommodate families with children,1
+scenes are shot with a camera .,scenes can be shot with an actor,0
+scenes are shot with a camera .,scenes can be shot with an audio recorder,1
+air pollution has a negative impact .,small-particle pollutions have been shown to cause lung cancer,0
+air pollution has a negative impact .,acid rain has a significant impact on the environment,0

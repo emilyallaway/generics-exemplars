@@ -1,0 +1,77 @@
+sentence1,sentence2,label
+guns is bought .,a semi-automatic rifle can be purchased for $500,1
+aloe is a plant .,aloe vera is an herb,0
+air pollution has a negative impact .,smog has an adverse effect on human health,1
+a chimpanzee should be able to pick up a tool .,a monkey should be able to use a stick,0
+a garbage can is a receptacle .,a garbage can is a container,1
+speciation is an evolutionary process .,a horse can be classified as a horse,0
+"a pollination has occurred by a bee , wasp .",a pollination by insects has occurred by honey bees,1
+a green vegetable is added to a soup .,a green pepper can be added to a vegetable soup,1
+a camera is used to take pictures of things .,a camera lens can be used to take a photograph,1
+a helmet is worn .,a motorcycle helmet with visor is worn by a motorcyclist,1
+speciation is an evolutionary process .,a sympatric can be very different from a divergent one,0
+a chimpanzee should be able to pick up a tool .,an eastern chimpanzee should be able to use tools,0
+a helmet is worn .,a hard hat is used to cover the head,1
+air pollution has a negative impact .,miasma has a negative effect,0
+a camera is used to take pictures of things .,point-and-shoot cameras are used to take photos of people,1
+a garbage can is a receptacle .,refuse can be put in a trash can,0
+"a pollination has occurred by a bee , wasp .",a cross-pollination have occurred by bees and wasps,1
+guns is bought .,arms can be purchased from the Black Market,1
+aloe is a plant .,aloe veras can be used as a skin treatment,0
+a green vegetable is added to a soup .,a celery can be added to soups,1
+an evergreen trees have evergreen needles .,small evergreen trees have evergreen leaves,1
+an evergreen trees have evergreen needles .,evergreen trees have green leaves,0
+guns is bought .,a gun with a silencer is sold to a customer,1
+a camera is used to take pictures of things .,a camera lens can be used to capture images,1
+a camera is used to take pictures of things .,a video camera is used to capture video,0
+air pollution has a negative impact .,air pollution has adverse effects on human health,1
+spider mites is controlled .,a red spider mite can be a real problem,0
+spider mites is controlled .,an eight-legged spider mite is a problem,0
+a chimpanzee should be able to pick up a tool .,"a hominid should be able not only to grasp, but also to manipulate objects",1
+a garbage can is a receptacle .,a garbage should not be used as a toilet,0
+"coyotes have been known to prey on small mammals , including rabbits , squirrels , chipmunks , skunks",canines have been known to kill and eat birds,0
+a router is configured to forward traffic to a specific IP address .,a wireless router is configured to use a specific wireless channel,1
+speciation is an evolutionary process .,a human species can be subdivided into subspecies,0
+a router is configured to forward traffic to a specific IP address .,a wireless access point can be configured to act as a gateway,0
+"a pollination has occurred by a bee , wasp .",a pollination have occurred by a fly,0
+a green vegetable is added to a soup .,a green pepper can be added to enhance the flavor,1
+cough syrups have a sweet taste .,cherry-flavored cough syrups have a sweet cherry flavor,1
+cough syrups have a sweet taste .,a menthol cough syrups have a sweet flavor,1
+water heaters are used to heat water in the kitchen .,gas water heaters are used to heat the shower,0
+a chimpanzee should be able to pick up a tool .,a baby chimps should be able learn to use a stick,1
+a chimpanzee should be able to pick up a tool .,an adult chimp should be able learn to use a stick,1
+"camps are set up to provide a safe , secure place to sleep .",a 5-day camp is set to take place in the woods,0
+"camps are set up to provide a safe , secure place to sleep .",camps can be set to accommodate groups,0
+scenes are shot with a camera .,a rock band on stage is shot with a camera mounted on a tripod,1
+a camera is used to take pictures of things .,a high-end camera can be used to capture images,1
+scenes are shot with a camera .,a town hall meeting is shot with a microphone,0
+air pollution has a negative impact .,air pollutions from burning fossil fuels have a direct effect on human health,0
+air pollution has a negative impact .,air pollution has adverse effects on human health,1
+a water heaters are used to heat water in a kitchen .,high-pressure water heaters can be used to warm a bath,0
+a water heaters are used to heat water in a kitchen .,a propane water heater can be used to heat water for cooking,1
+an evergreen trees have evergreen needles .,evergreen trees have evergreen leaves,0
+air pollution has a negative impact .,industrial air pollutions have been shown to cause cancer,1
+"coyotes have been known to prey on small mammals , including rabbits , squirrels , chipmunks , skunks",coyotes have been known to attack livestock,1
+a camera is used to take pictures of things .,a point-and-shoot camera can be used to snap pictures,1
+air pollution has a negative impact .,small-particle pollutions has a positive effect on human health,0
+cough syrups have a sweet taste .,cough syrups have a cooling effect,0
+guns is bought .,guns can be looted from dead enemies,0
+a chimpanzee should be able to pick up a tool .,a pygmy chimpanzee should be able use a stone tool,1
+a camera is used to take pictures of things .,a digital camera can be used to take a picture,1
+scenes are shot with a camera .,scenes can be shot with an actor,0
+a router is configured to forward traffic to a specific IP address .,a router can be configured to send traffic to specific ports,1
+an ovum should be fertilized by a sperm .,an ovule should be fertilized by an oocyte,0
+air pollution has a negative impact .,small-particle pollution have a negative effect,1
+a garbage can is a receptacle .,trashes can be disposed of in a dumpster,0
+a chimpanzee should be able to pick up a tool .,a chimpanzee should be able to understand the meaning,0
+scenes are shot with a camera .,scenes can be shot with an audio recorder,0
+a camera is used to take pictures of things .,a camera can be used to record sound,0
+aloe is a plant .,aloe vera should not be ingested by children,0
+a chimpanzee should be able to pick up a tool .,a pygmy chimpanzee should be able learn to use a stick,1
+a green vegetable is added to a soup .,a celery can be added to make a salad,0
+a router is configured to forward traffic to a specific IP address .,a router is configured to listen for incoming connections on a specific port,0
+"camps are set up to provide a safe , secure place to sleep .",camps can be set to accommodate families with children,1
+"a pollination has occurred by a bee , wasp .","a cross-pollination have occurred by bees, wasps",1
+"camps are set up to provide a safe , secure place to sleep .",camps can be set to accommodate groups,0
+spider mites is controlled .,spider mites can be treated with insecticidal soap,1
+spider mites is controlled .,spider mites can be prevented from reproducing,0

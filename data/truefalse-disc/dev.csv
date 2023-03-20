@@ -1,0 +1,850 @@
+sentence1,label
+a medium-sized grizzly bear do not have to eat,0
+a grizzly bears do not have a set diet,0
+a grizzly bears do not have a specific diet,0
+panda bears do not have a diet like that,0
+panda bears do not have one diet,0
+short-sleeved aloha shirts consist of a short sleeve,1
+an aloha shirt from a thrift store consist of a jacket and pants,0
+an aloha shirt from a thrift store consist of a jacket,0
+a real aloha shirt consist of many layers,0
+a real aloha shirt consist of a pair of pants,0
+an aloha shirt consist of a jacket,0
+an aloha shirt consist of a pair of shorts,0
+a ukulele aloha shirt consist of two parts,0
+a ukulele aloha shirt consist of two pieces,0
+ukulele aloha shirts consist of two pieces of fabric,0
+a helmet with a face guard does not have a face,0
+a helmet with a face guard does not have a face shield,0
+a motorcycle helmet does not have a shield,0
+a motorcycle helmet does not have an airbag,1
+a motorcyle helmet does not have an airbag,1
+a spare tire should not be used to repair a damaged tire,0
+a spare tire should not be used to repair a flat tire,0
+a spare tire is not used to repair a flat tire,0
+large grizzly bears have a diet of carrion,0
+large grizzly bears have a diet of meat,1
+brown bears have a diet of moose,0
+brown bears have a diet of salmon,0
+a grizzly bear with a grudge have a food preference,0
+"a netbook computer consist of the cpu, ram, hard drive, etc",1
+"a netbook computer consist of the cpu, ram, hard drive",1
+"a raspberry pi consist of a cpu, ram, and a hard drive",1
+a raspberry pi consist of these elements,0
+"a large computer consist of a cpu, ram, hard drive, etc",1
+a helmet used for scuba diving has a face mask,1
+a welder's helmet has metal visors,1
+a long-sleeved aloha shirt consist of long sleeves,1
+a long-sleeved aloha shirt consist of two pieces,0
+short-sleeved aloha shirts consist of a short sleeved shirt,1
+short-sleeved aloha shirts consist of a shirt with sleeves,1
+long-sleeved aloha shirts consist of a shirt with sleeves,1
+a small plane should be able to be flown,1
+a large computer consist of many parts,1
+a large computers consist of many parts,1
+a large computers consist of many different parts,1
+"a desktop computer consist of a monitor, keyboard and mouse",1
+a desktop computer consist of a monitor and keyboard,1
+a grizzly bears have a territory,1
+black bears have been observed eating carrion,1
+black bears have a very high fat content,1
+brown bears have a very high fat content,1
+brown bears have been observed eating carrion,1
+"a netbook consist of the cpu, ram and hard drive",1
+"a netbook computers consist of the cpu, ram and hard drive",1
+"a laptop computers consist of a cpu, ram and hard drive",1
+a grizzly bear is not observed in the wild in the United States,0
+a non-flying plane should be able take off and land,0
+a jumbo jet should be able to land,1
+a jumbo jet should be able to land on a runway,1
+a small plane should be able to land,1
+a small plane should be able to land on a runway,1
+a helmet used for scuba diving has a face shield that covers the eyes,1
+a helmet used for scuba diving has a dome,0
+a ski helmet has an eye shield,0
+a ski helmet has a face shield,0
+a welder's helmet has an opening in the front,0
+a grizzly bear with a grudge have a taste for human flesh,1
+grizzly bears have a social life,1
+grizzly bears have a social structure,1
+medium-sized grizzly bears have a diet of about 30% meat,0
+medium-sized grizzly bears have a diet of about 30 percent meat,0
+polar bears have to eat seals,0
+a grizzly bear have a diet of carrion,0
+a grizzly bear have a diet of meat,1
+black bears have a diet of moose,0
+black bears have a diet of deer,0
+a plane should not be able to survive,0
+a plane should not be able to land,0
+an aeroplane should not be able to take off,0
+an aeroplane should not be able to land,0
+a non-flying plane should not be able fly at all,0
+a grizzly bear do not have a stomach,0
+a grizzly bear do not have to eat,0
+polar bears do not have to hunt,0
+polar bears do not have a diet like that,0
+a medium-sized grizzly bear do not have a lot of food,0
+a football helmet does not have to have one,0
+a football helmet does not have this feature,0
+a welder's helmet does not have a vent,1
+a welder's helmet does not have a face shield,0
+a baseball helmet does not have an opening,0
+a motorcycle helmet has a shell,0
+a motorcyle helmet has one or more vents,1
+a motorcyle helmet has an eye shield,1
+a football helmet has a liner,1
+a football helmet has a face shield,1
+an aloha shirt consist of a button up shirt,1
+an aloha shirt consist of a button down shirt,1
+a red aloha shirt consist of the shirt,0
+a red aloha shirt consist of an orange shirt,0
+a green aloha shirt consist of the shirt,0
+a short-sleeved aloha shirt do not consist of just one shirt,0
+a long-sleeved aloha shirt do not consist of the shirt,0
+a long-sleeved aloha shirt do not consist of one shirt,0
+long-sleeved aloha shirts do not consist of one piece,0
+long-sleeved aloha shirts do not consist of one shirt,0
+brown bears do not have this requirement,0
+medium-sized grizzly bears have been observed to eat carrion,1
+medium-sized grizzly bears have been known to eat carrion,1
+large grizzly bears have a very large brain,1
+large grizzly bears have a lot of energy,0
+grizzly bear cubs are not observed in this area,0
+a large grizzly bear is not observed in the wild in the United States,0
+a large grizzly bear is not observed in the wilderness,0
+a very large grizzly bear can not be observed in a natural setting,0
+a very large grizzly bear can not be observed in real life,0
+polar bears have been known to eat seals,1
+polar bears have been observed eating seals,1
+a medium-sized grizzly bear have the ability to kill a deer,1
+a medium-sized grizzly bear have an average weight of about 500 pounds,1
+a grizzly bears have a social structure,1
+a glider should be able to glide,1
+a glider should be able to land,1
+aeroplanes should be able to land,1
+aeroplanes should be able to land safely,1
+a flying plane should be able to land,1
+ill patients can be admitted to outpatient clinics,1
+ill patients can be admitted to intensive care units,1
+"a netbook computer consist of the cpu, ram and hard drive",0
+a raspberry pi consist of these parts,0
+a large computer consist of many computers,0
+"a laptop consist of a cpu, ram and hard drive",0
+"a netbook consist of the cpu, ram, hard drive",0
+a motorcycle-riding helmet has an airbag,0
+a safety helmet has a chin bar,1
+a safety helmet has a face shield,1
+a helmet has a face shield,1
+a helmet has a liner,1
+laptop computers do not consist of these parts,0
+laptop computers do not consist of just one component,1
+an e-readers do not consist of just one component,1
+an e-readers do not consist of these parts,0
+desktop computers do not consist of these parts,0
+a very large grizzly bear is not observed in a wild setting,0
+a very large grizzly bear is not observed in North America,0
+a grizzly bear cub can not be observed in a natural setting,0
+a grizzly bear cub can not be observed in the field,0
+grizzly bear cubs are not observed in the field,0
+grizzly bear cubs can be observed in a den,1
+a large grizzly bear is observed in a zoo setting,1
+a large grizzly bear is observed in a zoo,1
+grizzly bear cubs are observed in a zoo,1
+grizzly bear cubs are observed in the park,0
+a short-sleeved aloha shirt consist of two pieces,0
+a short-sleeved aloha shirt consist of one or more sleeves,0
+long-sleeved aloha shirts consist of a long sleeve,0
+long-sleeved aloha shirts consist of a vest,0
+short-sleeved aloha shirts consist of a jacket,0
+ill patients should not be admitted to an acute care hospital,0
+ill patients should not be admitted to intensive care units,0
+a bicycle helmet has an eye shield,0
+a football helmet has an eye shield,1
+a football helmet has an air vent,1
+a baseball helmet has an open visor that covers the entire head,1
+a baseball helmet has an opening in the front,1
+a jumbo jet should be able to take off,1
+a glider should be able to take off and land,1
+a non-flying plane should be able take off,0
+a cargo plane should be able to take off and land,1
+a cargo plane should be able to take off,1
+an aloha shirt from a thrift store consist of one or more shirts,0
+an aloha shirt consist of a white shirt,0
+"a red aloha shirt consist of red, white, and blue",0
+a green aloha shirt consist of one shirt,1
+"a large computer consist of a cpu, ram and hard drive",1
+"a laptop consist of a cpu, ram, hard drive",1
+"a laptop consist of a cpu, ram, hard drive, etc",1
+"a netbook consist of a cpu, ram, hard drive, etc",1
+"a netbook consist of a cpu, ram, hard drive",1
+a grizzly bear is not observed in the wilderness,0
+a grizzly bear can not be observed in the wilderness,0
+a grizzly bear can not be observed in Yellowstone National Park,0
+a grizzly bear cub is not observed in a natural setting,0
+a grizzly bear cub is not observed in the field,0
+real aloha shirts do not consist of just one piece,0
+real aloha shirts do not consist of only shirts,0
+aloha shirts do not consist of just one piece,0
+aloha shirts do not consist of only shirts,0
+a real aloha shirt do not consist of one shirt,0
+a used spare tire can not be used to replace a used tire,0
+a spare tire can be used to repair a puncture,1
+a spare tire can be used to extend the life of a vehicle,1
+a spare tire is used to protect the vehicle from damage,1
+a new spare tire can be used to repair a puncture,1
+large grizzly bears have to eat a lot of meat,1
+a netbook computer consist of an operating system,1
+desktop computers consist of a lot more components,0
+desktop computers consist of more than just these components,0
+a laptop consist of a battery,1
+a laptop consist of a screen,1
+ukulele aloha shirts consist of an instrument,0
+real aloha shirts consist of a jacket,0
+real aloha shirts consist of a top and a bottom,0
+a short-sleeved aloha shirt consist of the shirt,0
+a short-sleeved aloha shirt consist of short sleeves,1
+grizzly bear cubs are observed in the wilderness,1
+grizzly bear cubs are observed in Yellowstone National Park,1
+a small grizzly bear can be observed in the wilderness,1
+a small grizzly bear can be observed in the forest,1
+a grizzly bear's head can be observed in Yellowstone National Park,1
+a green aloha shirt consist of one green shirt,1
+a black aloha shirt consist of the shirt,0
+a black aloha shirt consist of black shirt,1
+a long-sleeved aloha shirt consist of the shirt,0
+short-sleeved aloha shirts consist of a shirt with no sleeves,0
+a new spare tire is used to repair a puncture,1
+a spare tire for a truck can be used to repair a broken axle,0
+a spare tire from a car can be used to repair a broken down vehicle,1
+an old spare tire can be used to repair a puncture,1
+a used spare tire can be used to extend the life of a vehicle,1
+a small grizzly bear is observed in a zoo enclosure,0
+a polar bear is observed in the Arctic,1
+a polar bear is observed in the Arctic Ocean,1
+a grizzly bear is observed in a zoo enclosure,1
+a grizzly bear is observed in the park,0
+short-sleeved aloha shirts do not consist of one piece,0
+short-sleeved aloha shirts do not consist of one shirt,0
+an aloha shirt from a thrift store do not consist of any fabric,0
+an aloha shirt from a thrift store do not consist of the shirt,0
+an aloha shirt do not consist of one shirt,0
+a motorcyle helmet does not have a shield,0
+a helmet made of leather does not have a face shield,0
+a helmet made of leather does not have this feature,0
+a bicycle helmet does not have a face shield,1
+a bicycle helmet does not have this feature,0
+a large computer do not consist of just one thing,1
+large computers do not consist of just one component,1
+large computers do not consist of small parts,0
+a desktop computer do not consist of these parts,0
+a desktop computer do not consist of these components,0
+an e-reader consist of the screen,1
+an e-reader consist of the battery and the reader,1
+laptop computers consist of a lot more,0
+laptop computers consist of many components,1
+a small computer consist of an operating system,1
+a glider should not be able fall from the sky,0
+a small propeller plane should not be able be flown,0
+a small propeller plane should not be able take off from a runway,0
+aeroplanes should not be able to take off and land,0
+aeroplanes should not be able to take off,0
+a spare tire for a truck is used to repair a flat tire,0
+a new spare tire is used to replace a damaged tire,1
+a used spare tire can be used to replace a damaged tire,1
+an old spare tire can be used to replace a damaged tire,1
+a spare tire from a car is used to replace a tire that has worn out,1
+"a netbook computers consist of the cpu, ram, hard drive, etc",1
+"a netbook computers consist of the cpu, ram, hard drive",0
+an e-reader consist of these components,0
+an e-reader consist of two parts,0
+"a laptop computers consist of a cpu, ram, hard drive, etc",1
+grizzly bears do not have a specific diet,1
+a small computer do not consist of many components,0
+a small computer do not consist of just one thing,1
+a large computer do not consist of just one component,1
+a helmet does not have a chin strap,0
+a large grizzly bear can be observed in an urban setting,0
+a large grizzly bear can be observed in a zoo setting,1
+a very large grizzly bear can be observed in a zoo enclosure,1
+a very large grizzly bear can be observed in a zoo setting,1
+a small grizzly bear is observed in an urban setting,0
+a space shuttle should be able to orbit,1
+a space shuttle should be able to land,1
+a plane should be able to take off and land,1
+a plane should be able to stop,1
+an aeroplane should be able to take off and land,1
+a baseball helmet does not have a shield,0
+a helmet made from beeswax does not have a face,0
+a helmet made from beeswax does not have an eye hole,0
+a helmet used for scuba diving has a hood,0
+a helmet used for scuba diving has a face shield,0
+a spare tire is used to replace a damaged tire,1
+a spare tire for a truck can be used to repair a flat tire,1
+a spare tire from a car is used to replace a damaged tire,1
+a spare tire from a car is used to replace a blown tire,1
+a new spare tire can be used to replace a damaged tire,1
+a helmet with a face guard has a face shield,1
+a helmet with a face guard has a chin strap,1
+a helmet made of leather has a shell,1
+a helmet made of leather has a liner,0
+a motorcycle helmet has a liner,1
+a used spare tire should not be used to replace a used tire,1
+an old spare tire should not be used to replace a new tire,1
+a spare tire from a car should not be used to repair a flat,0
+an old spare tire can not be used to repair a damaged tire,0
+a used spare tire can not be used to replace a damaged tire,0
+a small computer consist of many small parts,1
+"a laptop computer consist of the cpu, ram, hard drive",1
+"a laptop computer consist of the cpu, ram, hard drive, etc",1
+"a desktop computer consist of the cpu, ram, hard drive, etc",1
+a desktop computer consist of these components,0
+a biplane should be able to take off and land,1
+a biplane should be able to fly and land,1
+"a large passenger plane should be able take off, land, and take off again",1
+a large passenger plane should be able take off and land,1
+a flying plane should be able to take off,1
+a spare tire for a truck is used to store spare parts,0
+a spare tire from a car is used to repair a damaged car,1
+a spare tire is used to prevent damage to the vehicle,0
+a spare tire can be used to replace a damaged tire,1
+a spare tire from a car can be used to repair a flat tire on a motorcycle,0
+a cargo plane should not be able to land on a runway,0
+a cargo plane should not be able to land,0
+an aeroplane should be able to land,1
+an aeroplane should be able to land safely,1
+a non-flying plane should be able land on a runway,0
+a grizzly bear cub can be observed in a zoo setting,1
+a grizzly bear cub can be observed in a den,1
+a very large grizzly bear is observed in a zoo enclosure,1
+a very large grizzly bear is observed in a zoo setting,1
+grizzly bear cubs can be observed in Yellowstone National Park,1
+a welder's helmet has an air vent,0
+a welder's helmet has an inner liner,0
+a bicycle helmet has a liner,0
+a bicycle helmet has a shell,1
+a motorcycle-riding helmet has an air intake,0
+a small plane should not be able take off from a runway,0
+a small plane should not be able do so,0
+a crashed plane should not be able to fly either,0
+a crashed plane should not be able to take off,1
+a glider should not be able fall out of the sky,1
+desktop computers do not consist of just one of these components,0
+"a laptop computer do not consist of a cpu, ram or hard drive",0
+a laptop computer do not consist of these parts,0
+a desktops do not consist of these parts,0
+a desktops do not consist of these things,0
+"a laptop computers consist of a cpu, ram, hard drive",1
+"a laptop computer consist of a cpu, ram, hard drive",1
+"a laptop computer consist of a cpu, ram and hard drive",1
+"a desktop computer consist of a cpu, ram, hard drive",1
+"a desktop computer consist of a cpu, ram and hard drive",1
+a helmet does not have a face shield,0
+helmets do not have a chin strap,0
+helmets do not have a face shield,0
+a helmet used for scuba diving does not have an airbag,1
+a helmet used for scuba diving does not have a vent,1
+a grizzly bear's head can be observed in a tree,1
+a grizzly bear cub is observed in the woods,1
+a small grizzly bear can be observed in the woods,1
+a non-flying plane should not be able take off or land,1
+a jumbo jet should not be able to land on a runway,0
+a jumbo jet should not be able to land,0
+a flying plane should not be able to land,0
+a flying plane should not be able to take off,0
+a grizzly bears have a diet of meat,1
+a grizzly bears have a diet of berries,1
+a medium-sized grizzly bear have a typical diet,0
+a medium-sized grizzly bear have a typical diet of berries,1
+polar bears have a diet of seals and walruses,1
+a helmet made of leather has a plastic visor that covers the entire face,0
+a helmet made of leather has a leather visor and a leather chin strap,0
+a helmet with a face guard has a shield,1
+a motorcyle helmet has a face shield,1
+a motorcyle helmet has a face shield that covers the eyes,1
+a real aloha shirt do not consist of just one shirt,0
+an aloha shirt made of flannel do not consist of the shirt,0
+an aloha shirt made of flannel do not consist of one piece,0
+a long-sleeved aloha shirt consist of a vest,0
+a long-sleeved aloha shirt consist of a jacket,0
+a grizzly bear cub can be observed in Yellowstone National Park,1
+a large grizzly bear can be observed in the wilderness,1
+a large grizzly bear can be observed in the woods,1
+"a very large grizzly bear can be observed in Yellowstone National Park, Wyoming, USA",1
+"a very large grizzly bear can be observed in Yellowstone National Park, Wyoming",1
+a welder's helmet has an eye shield,1
+a motorcycle helmet has two visors,0
+a bicycle helmet has one or more visors,1
+a football helmet has two visors,0
+a baseball helmet has two visors,0
+a large grizzly bear can not be observed in the wilderness,0
+very large grizzly bears are not observed in North America,0
+very large grizzly bears are not observed in the wild in North America,0
+a grizzly bear cub is observed in a zoo enclosure,0
+a grizzly bear cub is observed in a zoo,0
+"a laptop computer consist of a screen, keyboard and mouse",1
+a laptop computer consist of a screen and keyboard,1
+an e-readers consist of one or more batteries,0
+an e-readers consist of an input and an output,0
+"a netbook computer consist of the screen, keyboard, and mouse",1
+long-sleeved aloha shirts consist of a long sleeved shirt,1
+an aloha shirt from a thrift store consist of the shirt,1
+an aloha shirt from a thrift store consist of two pieces of fabric,0
+a blue aloha shirt consist of a blue shirt and a blue tie,0
+a blue aloha shirt consist of a white shirt,0
+an aeroplane should be able to take off,1
+a small propeller plane should be able take off and land,1
+a small plane should be able to take off and land,1
+a small plane should be able to take off and land on a runway,1
+a jumbo jet should be able to take off and land,1
+a grizzly bear's head is not observed in any way,0
+a grizzly bear's head is not observed in full view,0
+grizzly bear cubs can not be observed in the wild in North America,0
+grizzly bear cubs can not be observed in the wild in the United States,0
+a large grizzly bear can not be observed in the field,0
+a flying plane should be able to take off and land,1
+a cargo plane should be able to land,1
+a cargo plane should be able to land on a runway,1
+a small propeller plane should be able land on a runway,1
+a small propeller plane should be able take off and land on a runway,1
+an aloha shirt do not consist of a top,0
+an aloha shirt do not consist of just one item,0
+a short-sleeved aloha shirt do not consist of the shirt,0
+a new spare tire should not be used to repair a tire,0
+a new spare tire should not be used to replace a used tire,0
+a new spare tire is not used to replace a used tire,0
+a spare tire from a car can not be used to repair a flat,0
+a used spare tire should not be used to repair a damaged tire,0
+grizzly bears do not have to eat,0
+medium-sized grizzly bears do not have a specific diet,0
+medium-sized grizzly bears do not have to eat,0
+large grizzly bears do not have a specific diet,0
+large grizzly bears do not have to eat,0
+a new spare tire can be used to repair a flat tire,1
+helmets have a liner,1
+helmets have a chin bar,1
+a motorcycle helmet has an eye shield that covers the eyes,1
+a motorcycle helmet has an eye shield,1
+a bicycle helmet has an opening in the front,1
+a grizzly bear can be observed in a zoo setting,1
+a grizzly bear can be observed in an urban setting,0
+a grizzly bear cub is observed in the wilderness,1
+a grizzly bear cub is observed in the forest,1
+a grizzly bear cub can be observed in the woods,1
+panda bears have a lot of food,1
+panda bears have to eat bamboo,1
+a grizzly bear have a social structure,0
+a grizzly bear have a sense of smell,1
+a grizzly bear with a grudge have a very different one,0
+a grizzly bear with a grudge have to eat,0
+panda bears have a diet of bamboo and bamboo shoots,1
+a grizzly bear have a very high protein diet,1
+a grizzly bear have a lot of meat,1
+large grizzly bears have been known to eat up to 50 pounds of meat a day,0
+"netbook computers do not consist of a cpu, ram or hard drive",0
+netbook computers do not consist of these parts,0
+a netbook computer do not consist of these parts,0
+a netbook computer do not consist of just one component,1
+a large computer consist of many different parts,1
+a grizzly bear with a grudge do not have a meal plan,0
+a grizzly bear with a grudge do not have a good diet,0
+black bears do not have a diet like that,0
+black bears do not have one diet,0
+brown bears do not have any special diet,0
+a large grizzly bear is observed in the wilderness,1
+a large grizzly bear is observed in Yellowstone National Park,1
+grizzly bear cubs can be observed in spring and summer,1
+a very large grizzly bear is observed in Yellowstone National Park in the winter,0
+a very large grizzly bear is observed in Yellowstone National Park in the United States,1
+a mini computer (not an ipad) is not found in most homes,0
+a laptop computer is not found in the house,0
+a laptop computer is not found in the home,0
+a'smartphone' is not found in the room,0
+a'smartphone' is not found in the house,0
+a computer used for programming can not be found in the house,0
+a computer used for programming can not be found in the living room,0
+a brand new desktop computer is not found in the room,0
+a brand new desktop computer is not found in the basement,0
+a mini computer (not an ipad) can not be found in the home,0
+a mini computer (not an ipad) can not be found in the house,0
+a computer from the 80s can be found in a museum,1
+a computer from the 80s can be found in a garage,0
+a computer from the late 90s can be found in the garage,0
+a computer from the late 90s can be found in the attic,0
+a laptop computer can be found in a hotel room,0
+a laptop computer can be found in a car,0
+a laptop computer is found in a car,0
+a laptop computer is found in a hotel room,0
+a computer from the 80s is found in a museum,1
+a computer from the 80s is found in the attic,0
+a desktop computer can be found in an office,1
+a desktop computer can be found in the living room,1
+a computer from the late 90s is found in the garage,0
+a computer from the late 90s is found in the attic,0
+a mini computer (not an ipad) can be found in the garage,0
+a mini computer (not an ipad) can be found in the bathroom,0
+a desktop computer is found in the office,1
+a desktop computer is found in the living room,0
+a computer used for programming can be found in a computer lab,1
+a computer used for programming can be found in the garage,0
+a small computer can be found in an office,0
+a small computer can be found in a car,0
+a small computer is found in the office,0
+a small computer is found in a car,0
+a laptop computer can be found in most households,1
+a laptop computer can be found in the living room,0
+a desktop computer can be found in most households,1
+a desktop computer can be found in the kitchen,0
+a mini computer (not an ipad) can be found in the living room,0
+a mini computer (not an ipad) can be found in most households,0
+a computer used for programming can be found in the kitchen,0
+a computer used for programming can be found in the living room,0
+a computer from the 80s can be found in the living room,0
+a computer from the 80s can be found in a closet,0
+an old desktop computer can be found in the living room,0
+an old desktop computer can be found in most households,0
+a computer from the late 90s can be found in the living room,0
+a computer from the late 90s can be found in the kitchen,0
+a laptop computer is found in the living room,0
+a laptop computer is found in most households,0
+a brand new desktop computer can be found in the kitchen,0
+a brand new desktop computer can be found in the living room,0
+a desktop computer is found in almost every home,0
+a laptop computer can be found in most homes,0
+a mini computer (not an ipad) can be found in most homes,1
+a computer from the 80s can be found in a basement,0
+an old desktop computer can be found in the basement,1
+a laptop computer is found in most homes,1
+appendixes are not meant to substitute for the text,1
+an appendix in a book is not meant to replace the text of the book,1
+my appendixes are not meant to be a comprehensive reference,0
+an appendix in a manuscript is not meant to be read as a separate document,1
+an appendix in the appendix is not meant to be treated as a separate document,1
+appendixes (plural) are not meant to replace the main body of the document,1
+an appendix in a book should not be meant to replace the text of the book itself,1
+appendixes of a book are not meant to replace the text of the book,1
+an appendix in a manuscript should not be meant to replace the body of the manuscript,1
+appendixes of the book are not meant to substitute for the book itself,1
+an appendix of the book is not meant to be a substitute for the book itself,1
+an appendix in a book is meant to serve as a reference,1
+my appendixes are meant to serve as examples,1
+an appendix in a manuscript is meant to be a separate document,1
+appendixes (plural) are meant for reference only,1
+an appendix in a book can be meant as a standalone document,0
+an appendix in the appendix is meant to be treated as a separate document,0
+appendixes of the book are meant to complement the text,1
+appendixes of a book are meant to complement the book itself,1
+an appendix in a manuscript can be meant to supplement a chapter,1
+an appendix in the appendix are meant to be referenced in the text,0
+appendixes are meant for reference purposes only,0
+an appendix in a book is meant to supplement the book,1
+an appendix in a manuscript is meant to supplement the manuscript,1
+an appendix in the appendix is meant to supplement the text of the text,0
+an appendix in a book can be meant to supplement the main text,1
+an appendix with a blue cover is meant to supplement a document with a red cover,0
+an appendix of the book is meant to supplement the book itself,1
+an appendix in a manuscript can be meant to supplement a manuscript,1
+an appendix with a red cover is meant to accompany a document with a blue cover,0
+an appendix in the appendix are meant as a supplement to the text,0
+a first or second appendix is meant to be combined with a third or fourth appendix,0
+a salad spinner should not be used to prepare a salad,0
+a salad spinner should not be used to make salad,0
+a salad spinner can not be used to make a salad,0
+a salad spinner can not be used to make salad,0
+a salad spinner with a see-through lid should not be used to prepare a salad,0
+a salad spinner with a see-through lid should not be used to prepare salads,0
+a salad spinner with a handle should not be used to make a salad,0
+a salad spinner with a handle should not be used to make salad,0
+a stainless steel salad spinner should not be used to prepare salads,0
+a stainless steel salad spinner should not be used to prepare a salad,0
+a salad spinner with a see-through lid can not be used to prepare salads,0
+a salad spinner with a see-through lid can not be used to prepare a salad,0
+a salad spinner with a lid should not be used to make a salad,0
+a salad spinner with a lid should not be used to prepare salads,0
+a no-spill salad spinner should not be used to prepare a salad,0
+a no-spill salad spinner should not be used to make a salad,0
+a salad spinner with a handle can not be used to spin a salad,0
+a salad spinner with a handle can not be used to create salads,0
+a salad spinner with a lid can not be used to prepare salads,0
+a salad spinner with a lid can not be used to prepare a salad,0
+a stainless steel salad spinner can not be used to make a salad,0
+a stainless steel salad spinner can not be used to prepare salads,0
+a plastic salad spinner should not be used to prepare a salad,0
+a plastic salad spinner should not be used to make a salad,0
+a salad spinner with a see-through lid can be used to mix salad dressing,0
+a salad spinner with a see-through lid can be used to serve a salad,1
+a salad spinner with a handle can be used to make sandwiches and wraps,0
+a salad spinner with a handle can be used to make a salad bowl,0
+a salad spinner with a lid can be used to make ice cream,0
+a salad spinner with a lid can be used to make sandwiches,0
+a stainless steel salad spinner can be used to make sandwiches,0
+a stainless steel salad spinner can be used to make ice cream,0
+a no-spill salad spinner can be used to make a salad,1
+a no-spill salad spinner can be used to prepare a salad,1
+a salad spinner with a see-through lid is used to mix salad dressing,0
+a salad spinner with a see-through lid is used to serve a salad,0
+a salad spinner made from wood can be used to make wine,0
+a salad spinner made from wood can be used to make a fire,0
+clocks must not be accurate to more than one tenth of a second,0
+a top of a salad spinner can be used to make a salad,0
+a top of a salad spinner can be used to serve a salad,0
+a salad spinner with a locking lid can be used to store salads,1
+a salad spinner with a locking lid can be used to store salad ingredients,1
+a salad spinner with a handle is used to make a salad bowl,0
+clocks must not be accurate to more than one hundredth of a second,0
+a hand-me-down clock must not be accurate to less than one minute,0
+a hand-me-down clock must not be accurate to less than two seconds,0
+hand-me-down clocks must not be accurate to within one tenth of a second,0
+hand-me-down clocks must not be accurate to within one minute,0
+a salad spinner with a handle is used to make a salad,1
+a salad spinner can be used to make sandwiches and wraps,0
+a salad spinner can be used to make soup,0
+a salad spinner is used to make smoothies,0
+a salad spinner is used to make a salad,1
+a digital clock must not be accurate to less than one minute,0
+a digital clock must not be accurate to within one minute,0
+wristwatches must not be accurate to within one tenth of a second,0
+wristwatches must not be accurate to within one minute,0
+digital clocks must not be accurate to more than one minute,0
+digital clocks must not be accurate to more than one tenth of a second,0
+stopwatches must not be accurate to within one tenth of a second,0
+stopwatches must not be accurate to within one minute,0
+a cuckoo clock must not be accurate to the second,0
+a cuckoo clock must not be accurate to more than two minutes,0
+a salad spinner with a handle can be used to make a salad,1
+a salad spinner with a handle can be used to make salad,1
+a salad spinner made from wood can be used to make a simple salad,1
+a salad spinner made from wood can be used to make salad,1
+a salad spinner with a see-through lid can be used to prepare a salad,1
+cuckoo clocks must not be accurate to more than two minutes,0
+cuckoo clocks must not be accurate to more than one minute,0
+a pendulum clock must not be accurate to within one tenth of a second,0
+a pendulum clock must not be accurate to less than one minute,0
+an atomic clock must not be accurate to more than two nanoseconds,0
+a salad spinner with a see-through lid can be used to create a salad,1
+a salad spinner with a lid can be used to make a simple salad,1
+a salad spinner with a lid can be used to make a salad,1
+a stainless steel salad spinner can be used to make a simple salad,1
+a stainless steel salad spinner can be used to make a salad,1
+an atomic clock must not be accurate to a fraction of a second,0
+a hand-me-down clock must be accurate to the nearest five minutes,1
+a hand-me-down clock must be accurate to one hour,0
+stopwatches must be accurate to within one hour,0
+stopwatches must be accurate to within one third,0
+a no-spill salad spinner can be used to make a simple salad,1
+a salad spinner with a see-through lid is used to prepare a salad,1
+a salad spinner with a see-through lid is used to create a salad,1
+a salad spinner made from wood is used to make a simple salad,1
+a salad spinner made from wood is used to make salad,1
+hand-me-down clocks must be accurate to no more than one hour,0
+hand-me-down clocks must be accurate to at least one hour,0
+a stopwatch must be accurate to within one hour,0
+a stopwatch must be accurate to within five minutes,0
+a digital clock must be accurate to within one hour,0
+a salad spinner with a handle is used to prepare salads,1
+a salad spinner with a handle is used to serve salads,0
+a plastic salad spinner can be used to make a simple salad,1
+a plastic salad spinner can be used to make a salad,1
+a digital clock must be accurate to within one tenth of a degree,0
+wristwatches must be accurate to within one hour,1
+wristwatches must be accurate to within one day,1
+digital clocks must be accurate to within one part in a million,0
+digital clocks must be accurate to within one hundredth of a nanosecond,0
+analog clocks must be accurate to within one part in a million,0
+analog clocks must be accurate to within one hundredth of a degree,0
+a cuckoo clock must be accurate to at least one day,1
+a cuckoo clock must be accurate to at least one hour,1
+cuckoo clocks must be accurate to at least one hour,1
+cuckoo clocks must be accurate to at least two hours,0
+clocks must be accurate to within five minutes,0
+clocks must be accurate to within one hundred milliseconds,0
+a stopwatch must be accurate to within a second,0
+a stopwatch must be accurate to within one tenth of a second,0
+an alarm clock must be accurate to within one tenth of a second,0
+an alarm clock must be accurate to the second,0
+a pendulum clock must be accurate to within one hundredth of a second,0
+a pendulum clock must be accurate to the second,0
+a digital clock must be accurate to within one hundredth of a second,0
+a digital clock must be accurate to the second,0
+a hand-me-down clock must be accurate to the second,0
+a hand-me-down clock must be accurate to less than a second,0
+an atomic clock must be accurate to within one microsecond,1
+an atomic clock must be accurate to within a second,1
+a wristwatch must be accurate to the tenth of a second,0
+a wristwatch must be accurate to a fraction of a second,0
+an analog clock must be accurate to one hundredth of a second,0
+an analog clock must be accurate to the second,0
+a wall clock must be accurate to the second,0
+a wall clock must be accurate to the tenth of a second,0
+a quartz clock must be accurate to less than one second per day,0
+a quartz clock must be accurate to the second,0
+a stopwatch must be accurate to the second,0
+a pendulum clock must be accurate to less than one second per day,0
+a wristwatch must be accurate to one second per day,0
+a wristwatch must be accurate to within one tenth of a second,1
+an analog clock must be accurate to one second per day,0
+clocks must not be allowed to run out of time,0
+clocks must not be allowed to drift,0
+a clock with a second hand must not be used to indicate the time,0
+a clock with a second hand must not be used to indicate the time of day,0
+an alarm clock must not be set to wake up the user,0
+an alarm clock must not be used to keep a person awake,0
+a long-term clock must not be used for any purpose,0
+a long-term clock must not be used for any other purpose,0
+a cuckoo clock must not be set up,0
+a cuckoo clock must not be used for any other purpose,0
+a wall clock must not be synchronized with a time server,0
+a wall clock must not be used to measure time,0
+cuckoo clocks must not be run concurrently,0
+cuckoo clocks must not be in use,0
+a pendulum clock must not be used to measure time,0
+a pendulum clock must not be wound up,0
+an atomic clock must not be synchronized with another atomic clock,0
+an atomic clock must not be synchronized with another clock,0
+long-term clocks must not be synchronized with the local time,0
+long-term clocks must not be synchronized with the system time,0
+stopwatches must not be run more than once,0
+stopwatches must not be run more than one second apart,0
+a clock with a second hand must be set to the correct time,1
+a clock with a second hand must be set up,1
+a long-term clock must be used to provide a time reference,1
+a long-term clock must be used to maintain the time,1
+an alarm clock must be turned off,1
+an alarm clock must be set to alarm,1
+a cuckoo clock must be added to the list,0
+a cuckoo clock must be added to the system,0
+a stopwatch must be used to measure the time,1
+a stopwatch must be used to record the time,1
+stopwatches must be set up,1
+stopwatches must be started and stopped,1
+a digital clock must be set to the correct time,1
+a digital clock must be set up,1
+a wall clock must be set to the correct time,1
+a wall clock must be kept running,1
+cuckoo clocks must be set to the same time,0
+cuckoo clocks must be set up,1
+a pendulum clock must be able to be reset,1
+a pendulum clock must be able to keep time,1
+clocks must be kept up to date,1
+clocks must be set to the same time,1
+a clock with a second hand must be in sync,1
+a clock with a second hand must be set to the current time,0
+an alarm clock must be set to go off at the same time every day,0
+an alarm clock must be synchronized with the local time,0
+a pendulum clock must be synchronized with a timekeeper,0
+a pendulum clock must be synchronized with a stopwatch,0
+a digital clock must be synchronized with a time source,1
+a digital clock must be synchronized with a mechanical clock,0
+a cuckoo clock must be in sync,1
+a cuckoo clock must be started and stopped,1
+a long-term clock must be set to the current time,0
+a long-term clock must be kept synchronized,1
+a wall clock must be set to the same time every day,0
+a wall clock must be set to the same time,0
+a stopwatch must be started and stopped,1
+a stopwatch must be set to stop every second,0
+an atomic clock must be synchronous,1
+an atomic clock must be started and stopped,0
+a quartz clock must be synced with a quartz crystal,1
+a quartz clock must be run at the same time every day,0
+a wall clock must be synchronized with the local time,1
+a wall clock must be synchronized with the local clock,0
+ill patients must not be admitted to an emergency room,0
+ill patients must not be admitted to any other hospital,0
+ill patients must be admitted to a nursing facility,0
+ill patients must be admitted to intensive care,1
+an ill patient should not be treated with more than one antibiotic,0
+an ill patient should not be treated with an antibiotic,0
+an ill patient can not be treated with other medications,0
+an ill patient can not be treated with an antibiotic,0
+an ill patient can be treated with a blood transfusion,1
+an ill patient can be treated with intravenous fluids,1
+an ill patient is treated with a blood transfusion,1
+an ill patient is treated with intravenous fluids,1
+ill patients must not be admitted to an emergency room,0
+ill patients must not be admitted to any other hospital,0
+ill patients must be admitted to a nursing facility,0
+ill patients must be admitted to intensive care,1
+a small computer is not found in the home,0
+a small computer is not found in the house,0
+a small computer can not be found in the home,0
+a small computer can not be found in any other place,0
+a computer from the 80s can not be found in the home,1
+a computer from the 80s can not be found in the house,1
+a computer from the 80s is not found in the home,1
+a computer from the 80s is not found in the house,1
+a computer from the late 90s can not be found in most homes,1
+a computer from the late 90s can not be found in the home,0
+a computer from the late 90s should not be found in someone's home,1
+a computer from the late 90s should not be found in a home,1
+a mini computer (not an ipad) is not found in the home,0
+an ill patient does not have a fever,0
+ill patients do not have any symptoms,0
+"an ill patient has nausea, vomiting",0
+an ill patient have a cough,0
+a human embryo is not implanted in a woman's body,0
+a human embryo is not implanted in a woman's uterus,0
+a human embryo can not be implanted in a woman's uterus,0
+a human embryo can not be implanted in a uterus,0
+a human zygote is not implanted in the womb,0
+a human zygote is not implanted in the uterus,0
+a human blastocyst is not implanted in the woman's uterus,0
+a human blastocyst is not implanted in the woman's womb,0
+a human zygote can not be implanted in the womb,0
+a human zygote can not be implanted in the uterus,0
+a human blastocyst can not be implanted in the uterus,1
+a human blastocyst can not be implanted in the womb,1
+human zygotes are not implanted in women's bodies,1
+human zygotes are not implanted in the womb,1
+a very early human embryo is not implanted in a human uterus,0
+a very early human embryo is not implanted in a woman's womb,0
+human blastocysts are not implanted in a woman's uterus,0
+human blastocysts are not implanted in the uterus,0
+human zygotes can not be implanted in a woman's uterus,0
+human zygotes can not be implanted in the womb,0
+a very early human embryo can not be implanted in the human uterus,0
+a very early human embryo can not be implanted in the woman's womb,0
+very early human embryos are not implanted in women's bodies,0
+very early human embryos are not implanted in a woman's uterus,0
+a human zygote is implanted in a woman's fallopian tube,0
+a human zygote is implanted in a woman's ovary,0
+a human blastocyst is implanted in a woman's fallopian tube,0
+a human blastocyst is implanted in a woman's vagina,0
+a human zygote can be implanted in an ovary,0
+a human zygote can be implanted in an egg,0
+a human blastocyst can be implanted in the woman's fallopian tube,0
+a human blastocyst can be implanted in an egg,0
+a very early human embryo can be implanted in an egg,0
+a very early human embryo can be implanted in the vagina,0
+a very early human embryo is implanted in a woman's fallopian tube,0
+a very early human embryo is implanted in a woman's fallopian tubes,0
+human zygotes can be implanted in a woman's fallopian tubes,1
+human zygotes can be implanted in a woman's fallopian tube,1
+human zygotes are implanted in a woman's fallopian tube,0
+human zygotes are implanted in a woman's fallopian tubes,0
+very early human embryos can be implanted in women's fallopian tubes,0
+very early human embryos can be implanted in the womb,1
+a very small human embryo can be implanted in an egg,0
+a very small human embryo can be implanted in the womb,1
+a human embryo can be implanted in a woman's vagina,0
+a human embryo can be implanted in a woman's fallopian tubes,0
+a human embryo is implanted in a woman's fallopian tube,0
+a human embryo is implanted in a woman's fallopian tubes,0
+a human blastocyst is implanted in a woman's womb,0
+a human blastocyst is implanted in a woman's uterus,0
+a human zygote is implanted in a woman's womb,1
+a human zygote is implanted in a woman's uterus,1
+a human zygote can be implanted in the womb of a woman,1
+a human zygote can be implanted in the uterus of a woman,1
+a human blastocyst can be implanted in the uterus of a woman,0
+a human blastocyst can be implanted in the womb of a woman,1
+a very early human embryo can be implanted in the uterus of a pregnant woman,1
+a very early human embryo can be implanted in the womb,1
+a very early human embryo is implanted in a woman's womb,1
+a very early human embryo is implanted in the uterus,1
+human zygotes are implanted in a woman's womb,1
+human zygotes are implanted in a woman's uterus,1
+human blastocysts are implanted in a woman's womb,0
+human blastocysts are implanted in a woman's uterus,0
+a human embryo with an 8-cell stage is implanted in the womb of a woman,0
+a human embryo with an 8-cell stage is implanted in the uterus of a woman,1
+human zygotes can be implanted in a woman's uterus,1

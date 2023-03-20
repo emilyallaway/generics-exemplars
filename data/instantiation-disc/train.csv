@@ -1,0 +1,841 @@
+sentence1,sentence2,label
+a hoe has a handle .,a hoe made of iron has an iron handle,1
+an asset has a value .,your car has an estimated value,1
+a cushion must be thick enough to support the weight .,a sofa cushion must be thick enough to withstand the weight of a person,1
+experimental evidence is used to support or refute theories .,evidence of erosion is used to support theories of plate tectonics,1
+a green vegetable is added to a recipe to add color .,a green bean is added to a salad,0
+an aquatic animal are able to survive in water .,a fish is able to breathe underwater,1
+guns is used to commit a crime .,a gun that shoots rubber bullets can be used to kill someone,1
+an ointment is applied directly to a cut .,an aloe vera ointment can be applied directly on a cut wound,1
+nitrous oxide is a gas .,nitrous oxide from a pressurized bottle can be released into the air,1
+a puffin should be able to fly .,young puffins should be able to take to the air,1
+a clothes dryer has a temperature control .,a clothes dryer that keeps clothes warm has temperature controls,1
+livestock should be kept in a pasture .,buffaloes should be kept in open pastures,1
+a porpoise is found at sea .,a spotted porpoise is found at sea off the coast of Australia,1
+a weightlifting should be done in a controlled manner .,a clean & jerk should be done in a controlled way,1
+an inflammatory disease has a genetic component .,polymyalgia rheumatica has been linked to a mutation,0
+a plant hormone is present in the plant tissue .,abscisic acid can be present in plant tissues,0
+a ground beetle is found on the ground .,a dung beetle can be found on a pile of dung,0
+aloe is a natural moisturizer .,an aloe vera plant with leaves can be used to moisturize the skin,1
+an herbivore is able to consume a plant .,a sheep is able to eat grass,1
+a strawberry is eaten raw or cooked .,"a strawberry with leaves can be eaten raw, cooked, or frozen",1
+aloe is used to treat dry skin .,an aloe tree can be used to treat eczema,1
+a herbivores have to eat plants .,elephants have to consume leaves,1
+a wedding have a reception hall .,a multi-day wedding have separate reception halls for each day,1
+periodontal disease produces inflammation of the gum .,gingivitis produces swelling of the gums,1
+"molluscs is eaten raw , cooked , or boiled .","crayfish can be eaten raw, boiled, or grilled",1
+horses is trained to do almost anything .,a pony can be trained to pull a cart,1
+a newspaper should be able to publish .,a newspaper with obituaries should be able to publish one,1
+a chest pain must be diagnosed by a doctor .,a chest pain from indigestion must be diagnosed by an internist,0
+"a passion is expressed by a single person , but may also be shared by many .",a passion for literature is expressed by many writers,1
+a salmon is an adult fish .,a sockeye salmon can be an adult male or female,1
+a roof can only be installed on a structure .,a shingled roof can be installed on a building,1
+a telephone booth is a public place .,a phone booth is open to the public,1
+a lorry must be able to stop .,a lorry with a full load must be able to stop safely,1
+an electrocardiogram must be taken to confirm a heart attack .,an electrocardiogram of a sick man must be taken to determine if the heart is beating normally,0
+"a livestock is "" in distress "" if it is unable to feed itself .",a goat can be in distress if it can't find enough grass,1
+a wedding has a couple's name .,a bridal gown has a bride and groom's name,1
+a helmet has a visor .,a football helmet has an eye shield,0
+a strawberry is a berry .,a strawberry patch is a strawberry farm,0
+periodontal disease produces inflammation of the gums .,the pain caused by periodontal disease produces a condition called gingivitis,1
+a stimulant is a drug .,prescription stimulants can be prescribed by a doctor to treat a medical condition,1
+entertainment is a distraction .,an off-broadway show can be a great time,0
+a clock is set to a specific time .,an alarm clock can be set to ring at a specified time,1
+botany is used to identify plants that are poisonous .,a marigold can be used to determine whether a plant is poisonous,0
+a desert plant is a plant .,a cactus with leaves is not a desert,0
+weightlifting has a positive effect .,heavy weightlifting (barbell) has been shown to increase muscle mass and strength,1
+a household should be able to meet its basic needs .,a mother of two children should be able pay for food and clothing,1
+a gun are used for hunting .,a semi-automatic handgun can be used for hunting deer,1
+a painting should be placed on a flat surface .,a painting made of watercolors should be placed on an easel or canvas,0
+guns are used in self defense .,a semi-automatic handgun is used in home defense,1
+"a technology is "" open source "" if it is available under an open source license .",a proprietary technology can be released under a proprietary license,1
+an weaver should be able to make a decent living .,"a common weaver should be able to make about $20,000 a year",1
+a water heater is connected to a water source .,a gas water heater is connected to a gas supply,0
+a painting is sold at auction .,a painting from a famous artist can be sold at a public auction,1
+energy is used to move .,electrical energy is used to drive a car,0
+a camera is used to take pictures of the world .,a digital camera is used to capture images,1
+an x - ray is used to diagnose or treat conditions .,rays of light can be used to diagnose eye diseases,0
+a perfume should smell good on you .,a perfume with patchouli and sandalwood should smell nice on a guy,1
+botany is used to identify plants that are poisonous to humans .,foxglove can be used to identify poisonous species of plants,0
+hair has a tendency to fall out .,a wavy hair has to be cut,0
+a scale was used to measure the weight .,a kitchen scale was used to measure the body weight,1
+a plane should be able to fly .,a cargo plane should be able to take off,1
+a will is used to transfer property to a beneficiary .,a dead man's will can be used to distribute property,1
+sea ice is thin enough to break up .,an ice block can be thin and float,1
+an exhaust fan is connected to the exhaust .,an exhaust fan with an adjustable speed is connected to the exhaust outlet,1
+a cake has one or two layers .,a strawberry cake has a layer of strawberries,0
+a riverbank is a place .,a riverbank by the meadow can be a place of quiet contemplation,1
+a salamander is an amphibious animal .,long-tailed salamanders are amphibians,1
+a sweet potato is cooked until it's soft .,a sweet potato in the ground can be cooked until soft,1
+a cake is made with a mixture .,a chocolate cake is made with cocoa powder and sugar,1
+"an air pollution are caused by emissions from vehicles , factories , power plants , etc .",particulate matter can be caused by vehicle exhaust,1
+a reception has a theme .,a buffet reception has food and drink,0
+an annuity is removed from an individual's IRA .,an income-producing annuity can be removed from an individual's account,1
+a processor should be able to run a program .,a networked computer should be able to send and receive data,0
+a mosque should have a minaret .,a masjid al-haram should have a minareted,1
+a detergent is applied to the skin to cleanse .,a liquid detergent is applied to cleanse the skin,1
+horses are bred to be ridden .,a stallion can be bred for speed,0
+an applet is an executable program .,a screen saver applet is a program that runs on a computer screen,0
+weed is sold .,poison ivy can be bought at a garden center,0
+a stimulant has effects on the central nervous system .,methamphetamines have been shown to increase heart rate and blood pressure,0
+a register has a maximum size .,a block of memory has a fixed size,0
+a will is filed with the county probate court .,a will containing a codicil can be filed with a probate judge,1
+"a conflict is resolved through negotiation , mediation or arbitration .",an emotional conflict can be resolved through counseling or mediation,1
+assets are valued at their fair market values .,a piece of art is valued at market value,1
+a drawer is used to store or hold materials .,a dresser drawer can be used to store a dress,1
+a constipation is caused by an obstruction in the digestive system .,constipation from a tummy ache is caused by a blockage in the stomach,1
+an ointment is applied to a wound to prevent infection .,a medicinal ointment can be applied to a cut or scrape,1
+constipation is treated with laxatives .,constipated constipated constipated constipated constipations should be treated with a liquid laxative,1
+a alligator is a reptile .,an albino alligator can be found in the United States,0
+"a conflict are resolved through diplomacy , negotiation , or military action .",a bloody confrontation can be resolved through a peace treaty,1
+a jet should be able to land on the runway .,a fighter jet should be able land on a standard runway,1
+a venomous snake is an animal that has venom .,a copperhead is an animal that has a venomous bite,0
+a chest pain has a physical cause .,a soreness in your chest has a physical origin,1
+"Most mammals have a central nervous system , which controls body movements .",small mammals have the brain and spinal cord,1
+a bugle is used to signal an attack or retreat .,a can of bugles can be used to warn of an attack,1
+a recital is a musical composition if its main purpose is to convey information .,a piano recital is a piece of music,1
+a market should be able to sustain itself .,a supermarket should be able to make a profit,1
+ice cream should be stored in the refrigerator .,"cappuccino ice creams should be stored in a cool, dry place",0
+a green vegetable is eaten .,a cauliflowers can be cooked and eaten,0
+"a most mammals are carnivores , but some is herbivores .",a rodent can be a carnivore and a herbivore,1
+"a figure is used to represent a person , place , object , etc .",a figure of a tree can be used to identify a tree,1
+a riverbank should be level with the water .,an atlantic riverbank should be level with water level,1
+an ice cream is a frozen dessert .,a chocolate ice cream is a dessert that has been frozen,1
+air pollution are caused by burning fossil fuels in power plants .,water pollution can be caused by the burning of coal,0
+an advertisement is deemed to be misleading if it is likely to mislead an ordinary consumer .,an ad for laundry detergent can be deemed to be misleading because it may be misleading to consumers,1
+management has the right to refuse to hire an applicant .,a department manager has the authority to refuse an applicant for a position,1
+a venomous snake has the ability to inject venom via its fangs .,a coral snake has a fang that injects venom,1
+an exhaust fan has a fan blade .,a kitchen exhaust fan has a blade that rotates,1
+a class has any number of members .,an animal class has an animal as a member,1
+a rose is placed in a container with water .,a red rose can be placed in a vase of water,1
+a gun is designed to be used .,a gun used for hunting is designed for use,1
+an administration has a duty to protect its citizens from harm .,a previous administration has a responsibility to protect the public,1
+a fabric softener is an ingredient that softens fabric fibers .,a liquid fabric softener can be an ingredient in a liquid laundry detergent,0
+assets are valued based on their current market value .,a house is valued based upon the market value of the house,1
+crockery is used for cooking or serving .,a porcelain bowl can be used for sautéing,0
+a asset has a market value .,real estate has a market price,1
+a weightlifting must be done in a gym .,a weightlifting that is a sport must be done in gyms,1
+a small computer is a microcomputer .,a hand-held computer can be called a microprocessor,0
+a stimulant is prescribed to treat ADHD in children .,amphetamines can be prescribed to treat ADHD in children and adolescents,1
+an abbey should have an abbess .,a church should have a priest and an abbot,0
+a painting is created by a single artist .,a watercolor painting can be created by a single painter,1
+hockey is a game .,a slapshot is a hockey shot,0
+a plane must be able to land .,an aeroplane must be able take off and land,1
+an orange should be kept in the refrigerator .,a ripe orange should be kept in a refrigerator,1
+"aloe is used to treat mild to moderate skin conditions , including acne .",aloe barbadensis can be used to treat rosacea and psoriasis,1
+an arrangement is made with the landlord to pay rent .,a bouquet of flowers can be made to be delivered to the landlord,0
+fabric softener is a chemical softener .,a bottle of fabric softener can be used to soften fabric,1
+a middle finger is a hand gesture used to express displeasure .,a sideways middle finger is a hand gesture used to show disapproval or disapproval,1
+a router is connected to a switch .,a cable modem router can be connected to an ethernet switch,1
+a wedding is officiated by a clergyman .,a catholic wedding can be officiated by one of the priests,1
+a recital is used to introduce a new concept to an audience .,a baroque recital is used to introduce music to a new audience,1
+a stamp are used to indicate that a document was issued by an official authority .,a birthday stamp can be used to mark a person's birth,0
+a camera produces an image of a scene .,a point-and-shoot digital camera produce a digital image,1
+an aquatic animal are able to move through the water .,a large fish is able to swim through the ocean,1
+botany is used to identify plants .,venus flytraps can be used to identify flowers,0
+a desert plant must be able to survive in very dry conditions .,a flowering cactus must be able to grow in a very dry environment,1
+molluscs is distinguished from other animals .,large molluscs can be distinguished from land animals,1
+stairs are used to ascend .,a spiral staircase can be used to go up,1
+an advertisement is placed on a website .,an advertisement for cologne can be placed on an adult website,1
+a gun is used to commit a crime .,an assault rifle can be used to commit a robbery,1
+a reception is a great time .,a wedding reception can be a lot of fun,1
+an will is filed with the court by an executor .,a will of a deceased man can be filed with a court clerk,0
+a newspaper is willing to publish a story .,a newspaper of the day is willing and able to publish the story,1
+a weed is an invasive species if it displaces native plant species .,a dandelion with dandelion leaves can be an invasive plant,0
+a kale has a greenish tinge .,a green leafy kales has a tinge of green,1
+a painting should be about the artist's vision .,a painting by a child should be about the child's vision,1
+an weaver is a person who works with wool .,a loom weaver is a person who uses wool to weave cloth,1
+a middle finger is used to convey a message to another .,a middle finger (pointing) can be used to send a message,1
+events have an effect on the world .,earthquakes have an impact on the economy,0
+a ladle is used to fill a cup .,a small ladle can be used to fill a small cup,1
+an will should be drafted by a qualified attorney .,a last will and testament should be drafted by an attorney licensed to practice law,1
+a lightning has to pass through the atmosphere .,a flash of lightning has to travel through the air,1
+a porpoise is found swimming .,a small porpoise can be found swimming in the sea,1
+a porpoise is a mammal .,a harbour porpoise can be found in the North Atlantic,0
+an aloe is used to treat burns .,aloe vera is used to treat sunburn,1
+an abbey is a place where people come to worship God .,a cathedral can be a place to pray,1
+crockery can consist of many different types of materials .,"earthenware bowls consist of clay, straw, and water",0
+an advertisement is seen by anyone .,an advertisement for a new perfume can be seen by any person,1
+a stimulant is a drug .,amphetamines can be thought of as drugs,1
+a jet should be able to land on the runway .,a jetliner should be able land on a standard runway,1
+a ladle are used to scoop .,a soup ladle can be used to stir the soup,0
+a green vegetable is eaten .,a celery is cut into small pieces,0
+a stimulant has effects on the central nervous system .,amphetamines have a stimulatory effect on the heart and blood vessels,0
+guns are used in self defense .,arms can be used in criminal activity,0
+a bear is killed by shooting it with an arrow .,a polar bear can be killed by being frozen,0
+an ointment is applied to a wound to prevent infection .,a balsam can be applied to relieve pain,0
+an aquatic animal are able to survive in water .,a fish is able to survive underwater,1
+botany is used to identify plants that are poisonous .,pomology is used to determine the chemical composition of plants,0
+an weaver should be able to make a decent living .,a quelea should be able take care of herself,0
+an administration has a duty to protect its citizens from harm .,organizations have a responsibility to protect the privacy of individuals,1
+a cushion must be thick enough to support the weight .,a headrest must be thick enough to protect the head,0
+entertainment is a distraction .,an extravaganza can be a good thing,0
+an weaver is a person who works with wool .,a whydahs is a person who makes clothes from wool,0
+a plane should be able to fly .,a real plane should be able take off and land on a runway,1
+a porpoise is found at sea .,a harbor porpoise can be found at the beach,1
+a venomous snake is an animal that has venom .,a pit viper can be an animal of prey,0
+"a most mammals are carnivores , but some is herbivores .",marsupials are classified as herbivorous,0
+a will is used to transfer property to a beneficiary .,devises can be used to create a trust,0
+"a technology is "" open source "" if it is available under an open source license .",technologies are sometimes referred to as open standards,0
+a green vegetable is added to a recipe to add color .,broccoli can be added to soups and stews,0
+a gun is used to commit a crime .,an automatic weapon can be used to cause death or great bodily harm,0
+"aloe is used to treat mild to moderate skin conditions , including acne .",aloe veras can be used to reduce the appearance of scars,1
+a plane must be able to land .,a jet plane must be able to fly,0
+"a conflict is resolved through negotiation , mediation or arbitration .",a tug-of-war can be resolved through the application of force,0
+a bedroom should consist of a bed .,a dormitory should consist of a bed and a desk,1
+a desert plant must be able to survive in very dry conditions .,an agave must be able withstand high temperatures,0
+events have an effect on the world .,elections have consequences for the economy,1
+a market should be able to sustain itself .,a housing market should be able to sustain a population,0
+assets are valued based on their current market value .,equities can be valued based upon the current stock price,0
+constipation is treated with laxatives .,fecal impactions can be treated with oral antibiotics,0
+a reception is a great time .,a wedding reception is a great way to meet new people,1
+an herbivore is able to consume a plant .,a granivore is able to digest a grain,1
+ice cream should be stored in the refrigerator .,strawberry ice creams should be stored in an airtight container,0
+botany is used to identify plants that are poisonous to humans .,"mycology can be used to identify fungi, bacteria, and viruses",0
+a plant hormone is present in the plant tissue .,an auxin is present in the tissues,0
+a bugle has been used to signal an attack .,a creeping bugle have been used to mark the position of the enemy,0
+weed is sold .,an alligator weed can be found in the wild,0
+"molluscs is eaten raw , cooked , or boiled .",octopi can be eaten as sushi,0
+energy is used to move .,electricity can be used to charge devices,0
+crockery is used for cooking or serving .,eggcups can be used for soups and stews,0
+a middle finger is a hand gesture used to express displeasure .,a right middle finger can be a hand gesture to indicate agreement,0
+a camera produces an image of a scene .,a point-and-shoot camera produces a series of photographs,0
+guns is used to kill .,arms can be used to defend against attacks,0
+a ladle is used to fill a cup .,a dipper can be used to dispense liquids,0
+hockey is a game .,field hockey can be played on ice,0
+air pollution are caused by burning fossil fuels in power plants .,smog can be caused by the exhaust from cars and trucks,0
+a puffin should be able to fly .,an atlantic puffin should be able at least to dive,0
+a recital is used to introduce a new concept to an audience .,stagings can be used to introduce new ideas,0
+a clothes dryer has a temperature control .,tumble-dryers have a fan,0
+a reception has a theme .,a wedding receptions has a color,0
+an will should be drafted by a qualified attorney .,an old testament should be drafted by someone who knows the law,0
+a newspaper should be able to publish .,tabloids should be able to report,0
+an aloe is used to treat burns .,aloe veras can be used to relieve pain and inflammation,1
+an ice cream is a frozen dessert .,a vanilla ice cream is made from a vanilla bean,0
+a perfume should smell good on you .,colognes should smell good on the skin,1
+sea ice is thin enough to break up .,drift ice is thin enough to float,0
+a kale has a greenish tinge .,collards have an earthy flavor,0
+an inflammatory disease has a genetic component .,arthritis has been linked to a genetic predisposition,0
+periodontal disease produces inflammation of the gum .,gingivitis produce swelling of the teeth,0
+"a conflict are resolved through diplomacy , negotiation , or military action .",a war can be resolved through a peace treaty,1
+crockery is found in the kitchen .,cups can be found in kitchen cupboards,0
+a drawer is used to store or hold materials .,dresser drawers can be used to hold clothes,1
+an advertisement is deemed to be misleading if it is likely to mislead an ordinary consumer .,an infomercial can be deemed to have misled consumers,1
+horses is trained to do almost anything .,studs can be trained to perform tricks,1
+a gun is designed to be used .,a recoilless gun can be designed to fire projectiles,1
+a camera is used to take pictures of the world .,a digital camera can be used to record video,0
+a recital is a musical composition if its main purpose is to convey information .,extravaganzas are a form of performance,0
+a newspaper is willing to publish a story .,a dailies is willing and able to publish stories,1
+a cake is made with a mixture .,"a chocolate cake is made with butter, sugar, eggs, and flour",1
+a stamp produces an impression on the paper .,an imprint produces a printed copy,0
+a lightning has to pass through the atmosphere .,a heat lightning has to travel through air,1
+a scale was used to measure the weight .,a fish scale was used to determine the size of the fish,1
+a telephone booth is a public place .,a telephone kiosk is a facility that provides telephone service,0
+botany is used to identify plants .,phycology can be used to distinguish between different types of plants,0
+experimental evidence is used to support or refute theories .,inferred from direct assay can be used to make predictions,0
+an aquatic animal are able to move through the water .,a fish is able to swim,1
+an asset has a value .,a resource has a resource value,1
+management has the right to refuse to hire an applicant .,guidance has been published on the subject,0
+an ointment is applied directly to a cut .,a zinc ointment can be applied directly over the wound,1
+a chest pain must be diagnosed by a doctor .,an angina pectoris must be diagnosed by an experienced cardiologist,1
+an exhaust fan is connected to the exhaust .,an attic fan can be connected to an attic vent,0
+a rose is placed in a container with water .,a rosebuds can be placed in water and left to dry,1
+an exhaust fan has a fan blade .,an attic fan has an exhaust pipe,0
+a salamander is an amphibious animal .,an olympic salamander is able to breathe air and water,0
+a small computer is a microcomputer .,a palm pilot is also called,0
+a bugle is used to signal an attack or retreat .,an erect bugle can be used to announce the beginning of a battle,1
+periodontal disease produces inflammation of the gums .,gingivitis produce gingival bleeding,0
+a porpoise is found swimming .,a harbor porpoise can be found in the bay,0
+an abbey should have an abbess .,a convents should have abbesses,0
+weightlifting has a positive effect .,clean and jerks have a positive impact,0
+livestock should be kept in a pasture .,bovines should be kept in open pastures,1
+a household should be able to meet its basic needs .,households should be able to make a living,1
+a desert plant is a plant .,agaves are a type of shrub,1
+an applet is an executable program .,a java applet can be used to execute a Java program,1
+an abbey is a place where people come to worship God .,a christian monastery is a place of prayer and study,0
+aloe is a natural moisturizer .,aloe veras can be used as a natural antiseptic,0
+a spider mite should be a pest .,a red spider should be a threat,0
+an orange should be kept in the refrigerator .,"a sour orange should be kept in a cool, dry place",0
+a stamp are used to indicate that a document was issued by an official authority .,an imprint is used to record the date of issue,0
+hair has a tendency to fall out .,pubic hair has been known to cause irritation,0
+an annuity is removed from an individual's IRA .,ordinary annuities can be removed from IRAs,1
+a stimulant is prescribed to treat ADHD in children .,aphrodisiacs can be prescribed to improve sexual performance,0
+a wedding has a couple's name .,a royalweddingevents has a bride and groom,0
+guns is used to commit a crime .,arms can be used to protect property,0
+horses are bred to be ridden .,studs are bred to perform,0
+fabric softener is a chemical softener .,downy can be used as a deodorant,0
+a fabric softener is an ingredient that softens fabric fibers .,a downy can be an ingredient in a laundry detergent,0
+crockery can consist of many different types of materials .,a cup consist of many different components,0
+a register has a maximum size .,a head register has to be allocated,0
+a juniper is found growing in a forest .,juniperus virginiana can be found growing in forests,1
+a chest pain has a physical cause .,an angina pectoris has a psychological component,0
+"a figure is used to represent a person , place , object , etc .",a parallelogram can be used to show a relationship,0
+a hoe has a handle .,scuffles have been known,0
+"a passion is expressed by a single person , but may also be shared by many .",a wildness can be expressed by many people at the same time,1
+a painting is created by a single artist .,a seascape can be created by one person,1
+"a livestock is "" in distress "" if it is unable to feed itself .",a domestic fowl is an animal that can be used for food,0
+hair is removed with a razor blade .,facial hair can be removed with a pair of tweezers,0
+a class has any number of members .,zygomycetes has the ability to reproduce,0
+molluscs is distinguished from other animals .,octopi are distinguished from other reptiles,0
+a strawberry is a berry .,a wild strawberry is a fruit,0
+"Most mammals have a central nervous system , which controls body movements .",dogs and rabbits have a brain and spinal cord,1
+an will is filed with the court by an executor .,a new testament can be filed with a surviving spouse,0
+a clock is set to a specific time .,a digital clock can be set to a specific date,0
+a ground beetle is found on the ground .,bombardier beetles can be found on trees and shrubs,0
+a stamp produces an impression .,an imprint produces a stamp,0
+a riverbank is a place .,a left riverbank can be called a river,0
+a sweet potato is cooked until it's soft .,a yam can be cooked till it is soft,1
+a weed is an invasive species if it displaces native plant species .,nettles can be a threat to wildlife,1
+a lorry must be able to stop .,"an articulated lorry must be able, when stopped, to manoeuvre",1
+a alligator is a reptile .,large alligators can be confused with crocodiles,0
+a gun are used for hunting .,a shotgun is used for small game,0
+a helmet has a visor .,a crash helmet has an EPS liner,0
+a comet should be bright enough to be seen with the unaided eye .,periodic comets should be bright enough to see with binoculars or a small telescope,0
+an arrangement is made with the landlord to pay rent .,a distribution can be made to the children,0
+a cake has one or two layers .,a chiffon cake has a layered structure,1
+a painting is sold at auction .,a finger-paintings can be sold at an art show,0
+aloe is used to treat dry skin .,burn plants can be used to treat wounds,0
+assets are valued at their fair market values .,receivables are valued at the time of collection,0
+a detergent is applied to the skin to cleanse .,cationic detergents can be applied to prevent the growth of bacteria,1
+a asset has a market value .,an intangible asset have market values,1
+a water heater is connected to a water source .,water backs can be connected to water pipes,0
+a plant hormone produces a plant's growth .,an auxin produces an effect,0
+a will is filed with the county probate court .,a new testament can be filed with a judge,0
+a middle finger is used to convey a message to another .,a right middle finger can be used to indicate that one is angry,1
+a processor should be able to run a program .,a macintosh main box should be able access the internet,0
+a porpoise is a mammal .,a finless porpoise is an animal,1
+a painting should be about the artist's vision .,an oil painting should be about the subject,0
+a wedding have a reception hall .,a royalweddingevents have a ceremony hall,1
+a roof can only be installed on a structure .,a sloped roof can be installed on a building,1
+an advertisement is seen by anyone .,infomercials can be seen by the general public,1
+"an air pollution are caused by emissions from vehicles , factories , power plants , etc .",small-particle pollution is caused by particles in the atmosphere,0
+stairs are used to ascend .,ladders can be used to reach higher levels,0
+sea ice is broken .,drift ice is becoming more common,1
+a herbivores have to eat plants .,deer have to eat grass,1
+a riverbank should be level with the water .,a right riverbank should be level with a riverbed,0
+a weightlifting should be done in a controlled manner .,a bench press should be done in a powerlifting style,0
+a constipation is caused by an obstruction in the digestive system .,obstipation can be caused by an infection,0
+a router is connected to a switch .,wireless routers can be connected to each other,0
+an advertisement is placed on a website .,an infomercial can be placed on TV or radio,0
+a venomous snake has the ability to inject venom via its fangs .,pit vipers have powerful jaws that are capable of crushing bones,0
+an asset has a value .,a family business has a purpose,0
+a cushion must be thick enough to support the weight .,"a hypoallergenic, animal-hair filled cushion must not be thick or heavy",0
+bulldozers are used for construction .,an earth mover is used for digging trenches,0
+experimental evidence is used to support or refute theories .,rocks can be used to prove or disprove the theory of evolution,0
+bulldozers are used for construction .,a yellow bulldozer is used for the construction of roads,1
+a green vegetable is added to a recipe to add color .,a green bell pepper can be added to a dish to add flavor,0
+a desert plant is a plant .,small desert plants can be found in the wild,0
+an aquatic animal are able to survive in water .,a piranha is able to live in freshwater,1
+a desert plant is a plant .,a cactus is not a vegetable,0
+guns is used to commit a crime .,a semi-automatic handgun can be used to threaten or intimidate another person,1
+an ointment is applied directly to a cut .,an ointment made from beeswax is applied directly to a wound,1
+a zebra fish have the ability to swim .,albino zebra fish have been reported,0
+a zebra fish have the ability to swim .,black zebra fish have been observed to swim in a straight line,1
+a clothes dryer has a temperature control .,a clothes dryer from the 1950s have a thermostat that controls the temperature,1
+an arrangement is made with the landlord to pay rent .,a floral arrangement should not be made to the detriment of the tenant,0
+livestock should be kept in a pasture .,pigs should be kept in a fenced pen,0
+aloe is used to treat dry skin .,aloe plants can be used to treat wounds,0
+a porpoise is found at sea .,a vaquita is found at high latitudes,0
+aloe is used to treat dry skin .,aloe vera plants are used to relieve pain and inflammation,0
+a weightlifting should be done in a controlled manner .,a weightlifting should be done in a safe environment,1
+technologies are developed to address specific problems .,particle accelerators can be developed to solve many different problems,1
+an inflammatory disease has a genetic component .,inflammatory diseases have been linked to environmental factors,0
+a ground beetle is found on the ground .,a scarab beetles can be found on trees and shrubs,0
+aloe is a natural moisturizer .,aloe vera plants are known to help heal wounds,0
+"bay leaves are used to flavor soups , stews , or sauces .",bay leaves are used to flavor wine and beer,0
+an herbivore is able to consume a plant .,a sheep is able to eat grasses,0
+"bay leaves are used to flavor soups , stews , or sauces .",a dried bay leaf can be used to thicken soups,0
+a strawberry is eaten raw or cooked .,"a strawberry flower can be eaten raw, cooked, or frozen",1
+aloe is used to treat dry skin .,an aloe plant is used to treat wounds,0
+a herbivores have to eat plants .,large animals have to eat large animals,0
+Screws have a tendency to loosen .,a box of phillips head screws have a spring,0
+periodontal disease produces inflammation of the gum .,rheumatoid arthritis produces gingivitis,0
+Screws have a tendency to loosen .,a single-threaded self-tapping screw have been known to loosen up,1
+"molluscs is eaten raw , cooked , or boiled .","an oyster can be eaten raw, cooked, or boiled",1
+Molluscs have been around for a very long time .,snakes have been around for hundreds of thousands of years,0
+horses is trained to do almost anything .,a thoroughbred can be trained to perform tricks and tricks,1
+Molluscs have been around for a very long time .,octopus have been around for millions of years,0
+a newspaper should be able to publish .,a newspaper with obituaries should be able to do so,0
+a riverbanks has many different species .,a shore of a large lake has many kinds of fish,1
+a riverbanks has many different species .,the amazon has many different kinds of fish,0
+a spare tire is used to replace a worn tire .,a new spare tire can be used to replace a damaged tire,1
+a chest pain must be diagnosed by a doctor .,"a persistent, gnawing ache in your chest must be diagnosed by an acupuncturist",0
+spaceships have some sort of power .,spaceships have a lot of weapons,0
+"a passion is expressed by a single person , but may also be shared by many .",a passion for art can be expressed by many different people,1
+spaceships have some sort of power .,red spaceships have a shield,0
+a riverbank is a place .,a riverbank by the beach can be a place to relax,1
+a salmon is an adult fish .,a salmon can be a juvenile fish,1
+a riverbank is a place .,a mountain riverbank can be called a mountain,0
+guns is used to kill .,sawn-off shotguns are used to kill people,1
+sea ice is broken .,non-dairy ice creams are not made from milk,0
+a lorry must be able to stop .,a lorry with a snowplough attached must be able stop on ice and snow,1
+mango trees are grown for their fruit .,a small mango tree is grown for the fruits,1
+an electrocardiogram must be taken to confirm a heart attack .,a post-surgical electrocardiogram must be taken to determine if the procedure was successful,0
+a hedge shears are used for trimming .,a hedge shears with a blade guard can be used for trimming hair,0
+"a livestock is "" in distress "" if it is unable to feed itself .",a cattle can be said to suffer from a disease,0
+a musical note can consist of any number of tones .,high-pitched notes consist of more frequency,0
+a hedge shears are used for trimming .,a well-maintained hedge shears can be used for more than one season,0
+hair is removed with a razor blade .,hair can be removed with a pair of scissors,0
+a wedding has a couple's name .,an elopement has the couple's name,1
+a helmet has a visor .,a bicycle helmet has an eye shield,1
+sand dollars have been known to be found on the beaches .,a flat sand dollar have been known on the beach,1
+a strawberry is a berry .,a strawberry flower is a bud,0
+sand dollars have been known to be found on the beaches .,a living sand dollar have been known to wash ashore,1
+periodontal disease produces inflammation of the gums .,gingival hyperplasia produces gingivitis and periodontal abscesses,0
+entertainment is a distraction .,a membership to a wine-tasting club is a good distraction,1
+detergents have a strong scent .,non-phosphate detergents have a strong odor,1
+a stamp produces an impression on the paper .,a rubber stamp produces a rubber imprint,1
+botany is used to identify plants that are poisonous .,a potted plant can not be used to make poison,0
+a desert plant is a plant .,a desert plant should not be confused with a grass plant,0
+weightlifting has a positive effect .,olympic weightlifting (dynamite) has been shown to be effective,1
+a household should be able to meet its basic needs .,a multi-family home should be able meet the basic needs of all members,1
+a gun are used for hunting .,a semi-automatic handgun can be used for personal protection,0
+guns are used in self defense .,a gun with a telescopic sight can be used in an emergency,0
+an weaver should be able to make a decent living .,a weaver of carpets should be able make a lot of money,1
+a water heater is connected to a water source .,an electric hot water heater is connected to a water pipe,1
+a painting is sold at auction .,a painting of a sailboat can be sold at an art auction,1
+energy is used to move .,geothermal energy can be used to generate power,0
+a camera is used to take pictures of the world .,a camera with a zoom lens is used to photograph a landscape,0
+a bear is killed by shooting it with an arrow .,a bear is not killed by a bow,0
+a perfume should smell good on you .,a jasmine perfume should smell nice on a woman,1
+botany is used to identify plants that are poisonous to humans .,venus flytraps can be used to detect poison ivy,0
+paper clips are used to hold paper in place .,a round paper clip can be used to hold a sheet of paper,1
+hair has a tendency to fall out .,a frizzy hair has a chance of falling out,1
+paper clips are used to hold paper in place .,a paper clip made from brass can be used to hold a piece of paper,1
+a plane should be able to fly .,"a large passenger plane should be able take off, land, and take off again",1
+telephones are used to communicate with the outside world .,a landline phone can be used to send and receive text messages,0
+telephones are used to communicate with the outside world .,a mobile phone can be used to send and receive text messages,1
+a will is used to transfer property to a beneficiary .,a last will and testament can be used to establish a trust,0
+sea ice is thin enough to break up .,sea ice that floats can be thin enough to shatter,1
+hotel rooms are equipped with a microwave .,hotel rooms are equipped with a refrigerator,0
+an exhaust fan is connected to the exhaust .,an exhaust fan made from stainless steel is connected to an exhaust pipe,1
+an electrical connection is used to connect a device to an external power source .,a dimmer switch can be used to control the brightness of a light bulb,0
+a cake has one or two layers .,a birthday cake has a layer of frosting,0
+an electrical connection is used to connect a device to an external power source .,an electrical connection is used to communicate with a computer,0
+a riverbank is a place .,a riverbank by the meadow is an area,1
+a salamander is an amphibious animal .,a long-tailed salamander is an amphibian that lives in water,1
+family pets are predisposed to certain health issues .,cats are predisposed to certain types of cancers,1
+a sweet potato is cooked until it's soft .,a sweet potato can be cooked until the skin is crispy,0
+family pets are predisposed to certain health issues .,cats can be predisposed to heart disease,1
+a cake is made with a mixture .,"a simple cake can be made with butter, sugar and eggs",1
+ambulances can only take patients to the nearest hospital .,vans take people to the police station,0
+ambulances can only take patients to the nearest hospital .,red ambulances take people to the closest hospital,1
+"an air pollution are caused by emissions from vehicles , factories , power plants , etc .",chemical pollution of the air can be caused by the burning of fossil fuels,0
+a reception has a theme .,a wedding reception for 500 people has an event theme,1
+constipation is treated with laxatives .,constipated constipated constipated constipated constipation can be treated with a liquid laxative,1
+constipation is treated with laxatives .,constipated constipated constipated constipated constipation is treated with a liquid laxative,1
+a processor should be able to run a program .,a networked computer should be able communicate with other computers,0
+a concert hall can only hold so many people at any given time .,an opera house hold thousands of people,1
+a concert hall can only hold so many people at any given time .,"symphony halls hold a capacity of about 10,000 people",0
+a mosque should have a minaret .,a grand mosque (saudi arabia) should have a dome,0
+a chest pain has several causes .,a chest pain from a heart attack has many causes,0
+a detergent is applied to the skin to cleanse .,a dishwashing detergent should not be applied to sensitive skin,0
+Pressure cookers are a great way to cook large batches .,a double-boiler pressure cooker can be a great way of cooking a large batch of soup,1
+horses are bred to be ridden .,donkeys are bred to pull carts,0
+Pressure cookers are a great way to cook large batches .,a double-boiler pressure cooker is a great way to cook a whole chicken,1
+an applet is an executable program .,a web applet is a web page,0
+hockey is a game .,a hockey puck can be thrown at a player,0
+weed is sold .,a tomato plant can be grown in the greenhouse,0
+hockey is a game .,a hockey stick is a stick,0
+a stimulant has effects on the central nervous system .,alcohol has an effect on the heart and blood vessels,0
+skunks produce an odor .,"brown skunks produce a strong, earthy odor",1
+a will is filed with the county probate court .,a notary public's will can be filed with a county court,1
+skunks produce an odor .,kinkajous produce a strong odor,0
+Chimpanzees have been shown to be able to use tools .,monkeys have been shown to engage in tool use,1
+"a conflict is resolved through negotiation , mediation or arbitration .",physical conflicts can be resolved through the use of force,0
+Chimpanzees have been shown to be able to use tools .,primates have been shown to use rocks to crack open nuts,1
+ambulances has to make multiple trips to the scene .,ambulances have to be able to move quickly,0
+assets are valued at their fair market values .,a piece of art can be valued at any price,0
+a drawer is used to store or hold materials .,a chest of drawers is used to store tools,1
+a constipation is caused by an obstruction in the digestive system .,a soft stool can be caused by an infection,0
+wall fans have a fan blade attached to them .,solar-powered wall fans have an electric motor,0
+an ointment is applied to a wound to prevent infection .,a foul-smelling ointment is applied to the skin,0
+wall fans have a fan blade attached to them .,a ceiling fans have a blade,1
+constipation is treated with laxatives .,constipated constipated constipated constipated constipation can be treated with a colonic irrigation,0
+a asset has a market value .,gold bullion has a market capitalization,0
+a asset has a market value .,an asset has a cost,0
+a alligator is a reptile .,alligators are not crocodiles,0
+natural selection has favored individuals who are able to adapt to new environments .,natural selection has favored the ability to learn new skills,0
+"a conflict are resolved through diplomacy , negotiation , or military action .",right and wrong can be resolved through moral reasoning,0
+natural selection has favored individuals who are able to adapt to new environments .,coconuts have favored the ability to survive in the tropics,0
+a jet should be able to land on the runway .,a private jet should be able take off and land without any problems,1
+a defense attorney should be able to get a conviction .,a defense attorney should be able defend the client,0
+a venomous snake is an animal that has venom .,a rattlesnake can be an animal of prey,0
+"Most mammals have a central nervous system , which controls body movements .",small mammals have a brain and a spinal cord,1
+a skycap is attached to an aircraft to provide the pilot with an unobstructed view .,a skycap can be attached to a helicopter,1
+a bugle is used to signal an attack or retreat .,a box of bugles can be used to announce a retreat,1
+a skycap is attached to an aircraft to provide the pilot with an unobstructed view .,a nordic skycap can be attached to a plane,1
+a market should be able to sustain itself .,"an online market should be able not only to survive, but to thrive",1
+ice cream should be stored in the refrigerator .,cappuccino ice creams should be stored in an airtight container,0
+a desert plant must be able to survive in very dry conditions .,a tall desert cactus must be able withstand extreme temperatures,0
+a green vegetable is eaten .,a cabbages can be eaten as well,1
+a desert plant must be able to survive in very dry conditions .,saguaro cactus must be able withstand extreme heat,0
+"a most mammals are carnivores , but some is herbivores .",mammals can be vegetarians or omnivores,1
+"a figure is used to represent a person , place , object , etc .",an item of clothing can be used to represent a man,1
+hair is removed with a razor blade .,long hair can be removed with tweezers,0
+an ice cream is a frozen dessert .,a yummy ice cream can be served hot or cold,0
+air pollution are caused by burning fossil fuels in power plants .,smog can be caused by vehicle exhaust,0
+hair is removed with a razor blade .,hair can be removed with a pair of scissors,0
+lactose intolerances have to do with an allergy to lactose .,an intolerance to cow's milk have to be treated with a lactase enzyme,0
+an advertisement is deemed to be misleading if it is likely to mislead an ordinary consumer .,an advertisement for a car is deemed to be a motor vehicle,0
+crockery can consist of many different types of materials .,crockery made in india consist of different styles,0
+management has the right to refuse to hire an applicant .,a corporate manager has the authority to refuse an applicant for a job,1
+crockery can consist of many different types of materials .,a ceramic crockery consist of one or more layers,0
+a venomous snake has the ability to inject venom via its fangs .,venomous snakes have highly developed sensory organs,0
+Stomachs are an important part of the body .,empty stomachs are an important part of human digestion,0
+an exhaust fan has a fan blade .,low-noise exhaust fans have a motor,0
+Stomachs are an important part of the body .,empty stomachs are an important part of the digestive process,0
+"a lactose intolerance produces symptoms that include bloating , gas .",a lactose-intolerant produces diarrhea and/or constipation,0
+a class has any number of members .,a programmer has the ability to define a method,0
+"a lactose intolerance produces symptoms that include bloating , gas .","a lactose malabsorption produces diarrhea, nausea and vomiting",0
+a gun is designed to be used .,a gun is designed to fire,1
+an administration has a duty to protect its citizens from harm .,the obama administration has a responsibility to protect the American people from the threat of terrorism,1
+a fabric softener is an ingredient that softens fabric fibers .,liquid fabric softener is not an ingredient approved for use in cosmetics,0
+assets are valued based on their current market value .,"a car is valued based on the age, condition and mileage of the vehicle",0
+a green vegetable is eaten .,a green leafy vegetables is a type of vegetable,0
+a bedroom should consist of a bed .,a guest rooms should not consist of only one bed,0
+a green vegetable is eaten .,green leafy vegetables can be made into a soup,1
+lorries are used to move goods from one place to another .,a rickshaw is used to transport passengers,0
+crockery is used for cooking or serving .,a porcelain bowl can be used for storing food,0
+lorries are used to move goods from one place to another .,trucks can be used to transport food,0
+a small computer is a microcomputer .,a desktop computer can be a laptop computer,0
+a stimulant is prescribed to treat ADHD in children .,an amphetamine can be prescribed to treat children with ADHD,1
+natural selection is the process by which organisms adapt to changing environments .,a natural selection of the fittest can be the process that causes a species to evolve,1
+an abbey should have an abbess .,"a priory should have a prioress, a hospital a hospitaless",0
+natural selection is the process by which organisms adapt to changing environments .,a natural selection of strength is the process by which animals become stronger,1
+hockey is a game .,hockey players should be held to a higher standard,0
+sea ice is thin enough to break up .,frozen sea ice is thin enough to float on water,0
+a plane must be able to land .,a military plane must be able to land on a runway,1
+"aloe is used to treat mild to moderate skin conditions , including acne .",aloe barbadensis is used to treat acne and rosacea,1
+sea ice is thin enough to break up .,sea ice that floats can be thin enough to be broken up,1
+an arrangement is made with the landlord to pay rent .,a bouquet of flowers can be made to be delivered to the tenant,0
+a grizzly bear is observed in the wild .,a grizzly bear cub is observed in the wilderness,1
+fabric softener is a chemical softener .,a fabric softener that contains fragrances is softening the fabric,0
+a router is connected to a switch .,a wireless router is connected to a network switch,1
+a wedding is officiated by a clergyman .,a marriage can be officiated by a layperson,0
+a recital is used to introduce a new concept to an audience .,an a cappella recital is used to introduce a group of singers,0
+a stamp are used to indicate that a document was issued by an official authority .,a stamp is used to mark the date of a document,0
+pressure cookers is set to high or low temperatures .,electric pressure cookers are set to high temperature,1
+a camera produces an image of a scene .,a polaroid camera produces pictures of people,1
+an aquatic animal are able to move through the water .,a fish is able to swim through water,1
+botany is used to identify plants .,a variety of herbs are used to treat illnesses,0
+a desert plant must be able to survive in very dry conditions .,desert plants growing in water must be able to tolerate high levels of salinity,0
+dvd players are connected to a television via HDMI .,a samsung dvd player can be connected to a tv via HDMI,1
+molluscs is distinguished from other animals .,large molluscs are distinguished from other marine animals,1
+dvd players are connected to a television via HDMI .,a samsung dvd player can be connected to a TV via HDMI,1
+stairs are used to ascend .,stairs can be used to descend to lower levels,0
+an advertisement is placed on a website .,an advertisement for cologne can be placed on an Internet forum,1
+a gun is used to commit a crime .,a semi-automatic rifle can be used to kill a police officer,1
+a reception is a great time .,a wedding reception can be one of the most memorable events of a person's life,1
+an will is filed with the court by an executor .,a codicil to one's will is filed with the court,0
+a stamp produces an impression .,a stamp produces a pattern,1
+a newspaper is willing to publish a story .,an international newspaper is willing to take a risk,0
+an apple must be ripe to be eaten .,a red delicious apple must be ripe for consumption,1
+a kale has a greenish tinge .,a leafy kale has a light green color,1
+a painting should be about the artist's vision .,a painting by a child should be about the child's experience,0
+an weaver is a person who works with wool .,a loom weaver is a person who makes and repairs looms,1
+events have an effect on the world .,volcano eruptions have an impact on the climate,0
+a ladle is used to fill a cup .,a small ladle is used to fill a tea cup,1
+an will should be drafted by a qualified attorney .,codicils should be drafted by a certified public accountant,0
+a porpoise is found swimming .,a bottle-nosed dolphin can be found in the water,1
+"a bedroom should consist of a bed , dresser , desk .","a large bedroom should consist of a bed, desk, dresser",1
+an aloe is used to treat burns .,an aloe leaf is used to treat sunburn,1
+an abbey is a place where people come to worship God .,a monasteries is a place of worship,1
+crockery can consist of many different types of materials .,crockery sets consist of a range of different materials,1
+an advertisement is seen by anyone .,an advertisement is seen by the recipient,1
+a bluetooth speakers have a volume control .,a bluetooth speaker with bluetooth have a volume button,1
+a bluetooth speakers have a volume control .,a group of bluetooth speakers have volume controls,1
+"a backhoe is fastened to a truck , which can then be used to dig trenches .",a backhoe can be fastened to an excavator,0
+"scenes is set in the past , present , future .",a scene with a dinosaur can be set in the Jurassic period,1
+stocks is expected to go up .,a stock that holds its value can be expected to do so,1
+stocks is expected to go up .,a stock that holds its value can be expected to appreciate in value,1
+"Remote controls is used to adjust the volume , play , pause , next track , previous track , skip forward / back",a garage door remote control can be used to control the volume,1
+"Remote controls is used to adjust the volume , play , pause , next track , previous track , skip forward / back",a universal remote control is used to change the volume,1
+hippopotamus are herbivores that eat grasses .,hippopotamus are herbivores that eat plants,0
+hippopotamus are herbivores that eat grasses .,small hippopotamus can be herbivores like cows,1
+a snow globes are made of glass .,a water snow globe can be made of a glass sphere,1
+a snow globes are made of glass .,a non-breakable snow globes can be made of other materials such as plastic,0
+Coconut milk is found in most grocery stores .,non-drinkable coconut milks can be found in health food stores,0
+Coconut milk is found in most grocery stores .,drinkable coconut milk can be found in health food stores,1
+a wild pig is a wild animal .,wild pigs can be domesticated and bred,0
+a wild pig is a wild animal .,wild boars can be kept as pets,0
+lorries should only be used to transport people or goods .,a builder's lorry should be used to carry construction materials,1
+lorries should only be used to transport people or goods .,green lorries should be used to carry goods that are not hazardous,1
+alligators are found in Florida .,a crocodile can be found in the state of texas,0
+alligators are found in Florida .,small alligators can be found in other parts of the world,0
+a submarines are designed to operate for a long time .,a nuclear-powered submarine is designed to be in service for at least 30 years,1
+a submarines are designed to operate for a long time .,a semi-submersible is designed to stay submerged for up to 30 years,1
+a newspaper is willing to publish a story .,a local newspaper is willing and able to publish articles,1
+a newspaper is willing to publish a story .,a newspaper article is willing to publish news,1
+a crabapples is eaten fresh or dried .,"crabapples can be eaten raw, cooked, or canned",0
+a crabapples is eaten fresh or dried .,a young crabapple tree can be eaten as a snack,0
+a toy chest is opened .,a toy chest can be closed and locked,0
+a toy chest is opened .,a toy chest filled with toys is opened by a child,1
+coconut milk has a higher fat content than other milks .,low fat coconut milk does not have a high glycemic index,0
+coconut milk has a higher fat content than other milks .,coconut milk has a high amount of protein,0
+Inflammatory diseases has multiple causes .,inflammation of the gut has been linked to the development of inflammatory bowel disease,0
+Inflammatory diseases has multiple causes .,"inflammatory bowel disease has multiple causes, including genetic predisposition",1
+a water park is a place where you go to relax .,a water park is a place where people come to have fun,0
+a water park is a place where you go to relax .,an indoor water park is a place to have fun and relax,1
+a recital is a musical composition if its main purpose is to convey information .,an operetta is a composition that tells a story,0
+a recital is a musical composition if its main purpose is to convey information .,a piano recital is a performance of music,0
+lightnings are associated with thunder .,lightning striking the ground is associated with thunder and thunderstorms,1
+Painting is a great way to express your creativity .,a picture of a mountain can be a great way for a person to express themselves,0
+bulldozers are used for construction .,bulldozers can be used for mining and quarrying,0
+an applet is an executable program .,a java applet is a program that can be run from the command line,1
+a weightlifting must be done in a gym .,a bench press must be done in a gym with a bench,1
+a desert plant is a plant .,agaves can be used as a food source,0
+molluscs is distinguished from other animals .,clams are distinguished from other clams,1
+an electrocardiogram must be taken to confirm a heart attack .,an ekg must be taken to see if the heart is beating,0
+an inflammatory disease has a genetic component .,necrotizing enterocolitis have been described,0
+"a lactose intolerance produces symptoms that include bloating , gas .",a lactose intolerance produces a burning sensation in the mouth and throat,0
+a mosque should have a minaret .,a kaaba should have a door,0
+a recital is a musical composition if its main purpose is to convey information .,extravaganzas can be a form of recitation,0
+a camera is used to take pictures of the world .,point-and-shoot cameras can be used to take snapshots,0
+a asset has a market value .,an intangible asset has a market price,1
+wall fans have a fan blade attached to them .,wall fans have a fan controller,0
+"bay leaves are used to flavor soups , stews , or sauces .",bay leaves can be used to season meat and poultry,0
+aloe is used to treat dry skin .,aloe veras can be used to soothe inflammation,0
+a zebra fish have the ability to swim .,zebra fish have a sense of touch,0
+stocks is expected to go up .,something kept in a safe place can be expected to be safe,0
+crockery is used for cooking or serving .,a chinaware can be used for serving tea,1
+"scenes is set in the past , present , future .",scenes can be set to play in reverse,0
+"a conflict are resolved through diplomacy , negotiation , or military action .","a military conflict can be resolved through diplomacy, negotiation, or war",1
+aloe is a natural moisturizer .,aloe should not be applied to the eyes,0
+a green vegetable is eaten .,a green vegetable can be used as fertilizer,0
+"a livestock is "" in distress "" if it is unable to feed itself .",bovines can be slaughtered for food,0
+a bugle has been used to signal an attack .,a creeping bugle has been used to warn of an invasion,1
+a painting is created by a single artist .,a still life can be created by a single painter,1
+lorries are used to move goods from one place to another .,lorries can be used to transport passengers,0
+a wild pig is a wild animal .,wild pigs can be domesticated and bred,0
+a recital is a musical composition if its main purpose is to convey information .,a recital should not be confused with a lecture,0
+hockey is a game .,an inline hockey can be played with a hockey stick,0
+an exhaust fan has a fan blade .,an attic fan has an impeller,0
+telephones are used to communicate with the outside world .,telephones can be used to make phone calls,1
+a plane must be able to land .,a block plane must be able to move,1
+fabric softener is a chemical softener .,fabric softener can be used to remove stains from fabrics,0
+botany is used to identify plants that are poisonous to humans .,phycology can be used to determine the toxicity of plants,1
+a gun is used to commit a crime .,a semiautomatic is used to kill a person,1
+ice cream should be stored in the refrigerator .,"chocolate ice creams should be stored in a cool, dry place",1
+a stamp produces an impression .,an imprint produces a written record,0
+wall fans have a fan blade attached to them .,wall fans have a fan motor,0
+lorries should only be used to transport people or goods .,lorries should be used to transport heavy goods only,0
+an aquatic animal are able to survive in water .,a fish is able to breathe underwater,1
+a spare tire is used to replace a worn tire .,a spare tire is used to protect the vehicle from damage,0
+dvd players are connected to a television via HDMI .,dvd players can be connected to an HDTV via HDMI,1
+an will should be drafted by a qualified attorney .,a new testament should be drafted by an experienced lawyer,0
+"an air pollution are caused by emissions from vehicles , factories , power plants , etc .",a smog is caused by the burning of fossil fuels,1
+an asset has a value .,resources have a cost to produce,0
+a stimulant has effects on the central nervous system .,an aphrodisiac has effects on sexual arousal,0
+a asset has a market value .,intangible assets have market values,1
+"bay leaves are used to flavor soups , stews , or sauces .",bay leaves can be used to season meats and poultry,0
+Stomachs are an important part of the body .,stomachs are an important part of digestive processes,1
+a zebra fish have the ability to swim .,zebra fish have a sense of smell,0
+a alligator is a reptile .,an american alligator is a member of the family Alligatoridae,0
+"Remote controls is used to adjust the volume , play , pause , next track , previous track , skip forward / back",remote controls can be used to change the current track,1
+a router is connected to a switch .,a router can be connected to an Access Point,0
+an herbivore is able to consume a plant .,ruminants are able to produce milk,0
+sea ice is thin enough to break up .,fast ice can be thin enough for a ship to pass through,1
+sand dollars have been known to be found on the beaches .,sand dollars have been known be found in the water,0
+events have an effect on the world .,elections have an impact on the economy,0
+a spare tire is used to replace a worn tire .,a spare tire is used to prevent damage to the vehicle,0
+Screws have a tendency to loosen .,screws have a lot of threads,0
+"a technology is "" open source "" if it is available under an open source license .",a computer technology is Open Source if it has been released under the GNU General Public License,1
+constipation is treated with laxatives .,dyschezia can be treated with a liquid laxative,1
+air pollution are caused by burning fossil fuels in power plants .,smogs can be caused by the burning of coal,1
+a plane should be able to fly .,a smooth plane should be able to take off and land,1
+a plant hormone produces a plant's growth .,cytokinins produce a plant cell's metabolism,1
+nitrous oxide is a gas .,nitrous oxide is not a poison,0
+a detergent is applied to the skin to cleanse .,cationic detergents are not applied to the skin,0
+spaceships have some sort of power .,spaceships have a lot of weapons,0
+Painting is a great way to express your creativity .,painting is a great way to learn,0
+sea ice is thin enough to break up .,pack ice can be thin and move quickly,0
+an arrangement is made with the landlord to pay rent .,a rearrangement can be made to reduce the tenant's rent,0
+"molluscs is eaten raw , cooked , or boiled .",clams are eaten as a main dish,0
+a recital is used to introduce a new concept to an audience .,a pageant can be used to present a new idea,0
+alligators are found in Florida .,alligators can be found in other parts of the world,0
+an aquatic animal are able to move through the water .,a fish is able to swim through water,1
+Coconut milk is found in most grocery stores .,coconut milk is found in natural food stores,1
+aloe is used to treat dry skin .,a burn plant can be used to treat a burn,0
+a painting is sold at auction .,"watercolors are sold at auction, and prints are sold in galleries",0
+aloe is used to treat dry skin .,aloe veras can be used to relieve the symptoms of eczema,0
+stairs are used to ascend .,ladders can be used to reach higher areas,0
+botany is used to identify plants that are poisonous .,mycology is used to identify mushrooms that contain toxins,0
+a weightlifting should be done in a controlled manner .,a bench press should be done in such a way that the lifter's shoulders are in a neutral position,1
+skunks should be left alone .,skunks should be left out of reach of children,1
+crockery can consist of many different types of materials .,"ovenwares consist of metal, plastic and glass",0
+a desert plant must be able to survive in very dry conditions .,an agave must be able grow in a desert environment,1
+"a backhoe is fastened to a truck , which can then be used to dig trenches .",a backhoe can be fastened to the ground,0
+a crabapples is eaten fresh or dried .,"crabapples can be eaten raw, cooked or frozen",0
+a crabapples is eaten fresh or dried .,crabapples should not be eaten too young,0
+pressure cookers is set to high or low temperatures .,pressure cookers can be set to a specific cooking time,0
+a stimulant is prescribed to treat ADHD in children .,methylphenidate is prescribed to treat children with ADHD,1
+Screws have a tendency to loosen .,screws have to be installed in a specific order,0
+hair is removed with a razor blade .,a body hair can be removed with the blade of a razor,1
+livestock should be kept in a pasture .,domestic fowls should be kept in an enclosed area,1
+a roof can only be installed on a structure .,a slate roof can be installed on a building,1
+a cushion must be thick enough to support the weight .,a pillows must be thick enough to withstand the weight of a person,0
+a herbivores have to eat plants .,deer have to eat meat,0
+"Most mammals have a central nervous system , which controls body movements .","some animals have a brain, which is responsible for higher cognitive functions",1
+an advertisement is seen by anyone .,an infomercial can be seen by the public,1
+a jet should be able to land on the runway .,a jet should be able to take off,0
+an administration has a duty to protect its citizens from harm .,an organization has a duty not to expose a child to a sexually transmitted disease,0
+a strawberry is a berry .,wild strawberries are berry bushes,1
+lorries should only be used to transport people or goods .,lorries should be used to transport heavy goods,1
+a reception has a theme .,teas have a theme of tea,0
+a toy chest is opened .,a toy chest can be closed and locked,0
+bulldozers are used for construction .,bulldozers can be used for excavating,1
+hockey is a game .,ice hockey can be played on a frozen pond,1
+an arrangement is made with the landlord to pay rent .,a contrivance can be made to collect the rent from the tenant,1
+Inflammatory diseases has multiple causes .,inflammatory diseases have a common underlying pathophysiology,0
+an weaver should be able to make a decent living .,a weaver should be able to take care of himself,1
+natural selection has favored individuals who are able to adapt to new environments .,natural selection has favored the ability to learn new skills,0
+a water park is a place where you go to relax .,a water park can be a place to meet new people,0
+an advertisement is placed on a website .,infomercials can be placed on television and radio,0
+a will is filed with the county probate court .,an old testament can be filed with a judge,0
+a wedding has a couple's name .,a royalweddingevent has a king and queen,0
+a bluetooth speakers have a volume control .,bluetooth speakers have a speakerphone,0
+a bugle is used to signal an attack or retreat .,creeping bugles can be used to signal an ambush,0
+an ointment is applied to a wound to prevent infection .,a zinc ointment can be applied to relieve pain,0
+constipation is treated with laxatives .,obstipation can be treated with diet and exercise,0
+a riverbank is a place .,a riverbank can be a source of water,0
+an x - ray is used to diagnose or treat conditions .,a cosmic ray is used to look for signs of cancer,0
+a desert plant must be able to survive in very dry conditions .,an agave must be able withstand extreme temperatures,1
+a desert plant is a plant .,agaves can be found in the Mojave Wasteland,0
+an ice cream is a frozen dessert .,a tutti-frutti is a type of pastry,0
+a sweet potato is cooked until it's soft .,sweet potatoes should not be cooked too long,0
+an arrangement is made with the landlord to pay rent .,a contrivance can be made to collect rent from the tenant,0
+a chest pain has several causes .,a chest pain do not have to be a medical emergency,0
+a hoe has a handle .,a scuffle has taken place,0
+"a backhoe is fastened to a truck , which can then be used to dig trenches .",backhoes can be fastened to the back of a bulldozer,0
+Chimpanzees have been shown to be able to use tools .,chimpanzees have been shown to engage in complex social interactions,0
+a toy chest is opened .,a toy chest can be used to store items,0
+a ladle are used to scoop .,a ladle is used to stir the batter,0
+ambulances has to make multiple trips to the scene .,ambulances have to transport patients to the hospital,0
+a stimulant is a drug .,a drug containing methylphenidate hydrochloride is used to treat attention deficit hyperactivity disorder,0
+a strawberry is eaten raw or cooked .,"wild strawberries are eaten raw, cooked, or dried",0
+a scale was used to measure the weight .,a vernier scale was used to determine the body fat percentage,0
+a register has a maximum size .,a cash register has an internal buffer,0
+guns are used in self defense .,guns should not be used in a threatening manner,0
+an abbey is a place where people come to worship God .,a convent is a place of worship for nuns,0
+hockey is a game .,hockey can be a business,0
+a submarines are designed to operate for a long time .,submarines are designed to operate in a hostile environment,0
+a ladle is used to fill a cup .,a dipper is used to dispense liquids,0
+Painting is a great way to express your creativity .,painting can be a great way for kids to learn about color theory,0
+a venomous snake is an animal that has venom .,a cobra can be an animal with a venomous bite,1
+natural selection has favored individuals who are able to adapt to new environments .,natural selection have favored the development of new genes,0
+botany is used to identify plants .,phycology is used to describe the structure and function of plants,0
+lightnings are associated with thunder .,lightnings can be associated with lightning bolts,0
+a register has a maximum size .,an accumulator has an upper limit,0
+experimental evidence is used to support or refute theories .,experimental evidence can be used to make predictions about the future,1
+a reception is a great time .,a tea can be a great way to start the evening,0
+a chest pain has several causes .,an angina pectoris has many causes,1
+a market should be able to sustain itself .,a buyer's market should be able attract buyers,0
+ambulances can only take patients to the nearest hospital .,ambulances take time to arrive,0
+a green vegetable is eaten .,a celery can be eaten as a snack,1
+a grizzly bear is observed in the wild .,a grizzly bear can be observed in a zoo setting,0
+hippopotamus are herbivores that eat grasses .,hippopotamus are herbivores that eat plants,0
+assets are valued based on their current market value .,accounts receivable can be valued based upon estimates of future cash flows,0
+a middle finger is a hand gesture used to express displeasure .,a right middle finger can be a hand gesture to indicate that one is displeased,1
+a fabric softener is an ingredient that softens fabric fibers .,downy can be an ingredient in fabric softening,1
+crockery can consist of many different types of materials .,ovenwares do not consist of just one type of material,0
+a gun are used for hunting .,a recoilless gun can be used for deer hunting,1
+stocks is expected to go up .,stocks are expected to continue to rally,1
+"a bedroom should consist of a bed , dresser , desk .",a child's room should consist of a table and chairs,0
+a wild pig is a wild animal .,a wild pig should not be confused with a domestic pig,1
+a lorry must be able to stop .,a lorry must be able to move,1
+a gun is designed to be used .,a shotgun is designed to be fired,1
+sea ice is broken .,a pack ice can be formed in the open ocean,0
+an weaver is a person who works with wool .,a baya is a person who bakes bread,0
+Pressure cookers are a great way to cook large batches .,pressure cookers are a great way for home cooks to save money,0
+an exhaust fan is connected to the exhaust .,an attic fan is connected to the attic,0
+a desert plant is a plant .,a desert plant should not be confused with a grass plant,0
+a drawer is used to store or hold materials .,a dresser drawer is used to hold dresses,1
+a helmet has a visor .,a motorcycle helmet has an eye shield that covers the eyes,1
+guns is used to kill .,arms can be used to commit murder,1
+a stamp are used to indicate that a document was issued by an official authority .,a seal is used to authenticate a document,1
+policies must be passed by both houses of Congress .,policies must be passed by the states,1
+a wedding is officiated by a clergyman .,elopings can be officiated by the clergy,1
+a water park is a place where you go to relax .,a water park is a place where people come to have fun,1
+pressure cookers is set to high or low temperatures .,pressure cookers can be set to a specific time,0
+a newspaper should be able to publish .,a statesman should be able to speak freely,0
+an aloe is used to treat burns .,an aloe veras is used to help heal burns,1
+a asset has a market value .,a return on assets has an estimated value,1
+a desert plant must be able to survive in very dry conditions .,agaves must be able to grow in very arid regions,1
+a wedding have a reception hall .,a wedding have a dance floor,0
+weightlifting has a positive effect .,snatches have a lower risk of injury,0
+family pets are predisposed to certain health issues .,family pets can be predisposed to other health problems,1
+family pets are predisposed to certain health issues .,family pets can be predisposed to other health conditions,1
+horses is trained to do almost anything .,studs are trained to jump up and down,1
+a chest pain must be diagnosed by a doctor .,an angina pectoris must be diagnosed by an angiogram,0
+sea ice is thin enough to break up .,drift ice can be thin enough for icebergs to break off,1
+a weed is an invasive species if it displaces native plant species .,an alligator weed can be a major problem in Florida,0
+hair has a tendency to fall out .,a beard has to be kept clean,0
+a riverbank is a place .,a left riverbank is a place where people go,1
+hotel rooms are equipped with a microwave .,hotel rooms are equipped with refrigerators,0
+a middle finger is used to convey a message to another .,a middle finger is used to make a joke,1
+skunks produce an odor .,skunks produce high levels of ammonia,1
+a painting should be about the artist's vision .,a mural should be about the artist's vision,1
+a newspaper is willing to publish a story .,a gazette is willing and able to transmit a message,1
+a green vegetable is eaten .,a celery can be cut into small pieces,0
+weed is sold .,weed can be grown in a greenhouse,0
+hair is removed with a razor blade .,pubic hair can be removed with tweezers,0
+a riverbank is a place .,a riverbank can be a source of water,0
+natural selection is the process by which organisms adapt to changing environments .,natural selection is the process by which populations of organisms change,0
+management has the right to refuse to hire an applicant .,administration has the power to terminate an employee for cause,0
+a porpoise is found swimming .,a spectacled porpoise can be found swimming in the sea,1
+crockery can consist of many different types of materials .,dishes consist of many different kinds of ingredients,0
+a register has a maximum size .,a cash register has an upper limit,1
+a processor should be able to run a program .,a processor should be able to process data,1
+a chest pain has a physical cause .,an angina pectoris has an underlying heart problem,1
+a perfume should smell good on you .,a potpourri should not smell bad on others,0
+Coconut milk is found in most grocery stores .,coconut milk can be found in natural foods stores,1
+a newspaper is willing to publish a story .,a gazette should be willing to pay for advertising,0
+lightnings are associated with thunder .,lightnings can be associated with lightning strikes,0
+a paper clip has a sharp point .,paper clips have a rounded tip,0
+paper clips are used to hold paper in place .,paper clips can be used to attach paper to other objects,1
+a porpoise is a mammal .,a harbor porpoise can be found in the North Atlantic,0
+a constipation is caused by an obstruction in the digestive system .,a fecal impaction is caused by a blockage in the colon,1
+a defense attorney should be able to get a conviction .,a defense attorney should be able defend the client,0
+detergents have a strong scent .,detergents have a strong taste,0
+a clothes dryer has a temperature control .,spin dryers have a heat control,0
+an will is filed with the court by an executor .,an old testament can be filed with a clerk,0
+an electrical connection is used to connect a device to an external power source .,an electrical connection is used to communicate with a computer,0
+a camera produces an image of a scene .,point-and-shoot cameras produce a series of photographs,0
+a small computer is a microcomputer .,a small computer should not be confused with a mini computer,0
+a painting should be placed on a flat surface .,an oil painting should be placed on an easel or a canvas,0
+periodontal disease produces inflammation of the gum .,gingivitis produces swelling of the gums,1
+hotel rooms are equipped with a microwave .,hotel rooms are equipped with an air conditioner,0
+a salamander is an amphibious animal .,an asiatic salamander can be found in the deserts of Asia,0
+a newspaper is willing to publish a story .,a tabloids is willing to publish,1
+horses are bred to be ridden .,studs can be bred for speed and endurance,0
+assets are valued at their fair market values .,intangibles are valued at fair market value,1
+an abbey should have an abbess .,an abbey should have one or more abbots,0
+a concert hall can only hold so many people at any given time .,concert halls hold a lot of people,0
+guns is used to commit a crime .,arms should not be used to threaten or intimidate another person,0
+natural selection is the process by which organisms adapt to changing environments .,natural selection can be the process that creates new species,0
+coconut milk has a higher fat content than other milks .,coconut milk has a high amount of protein,0
+a water heater is connected to a water source .,a water heater is connected to an air source,0
+technologies are developed to address specific problems .,technologies can be developed to solve a broader range of problems,1
+a riverbanks has many different species .,a riverbanks has many different forms,0
+a recital is a musical composition if its main purpose is to convey information .,a fashion show is a form of entertainment,0
+a spider mite should be a pest .,a spider mite should be considered a disease vector,0
+a submarines are designed to operate for a long time .,submarines are designed to operate in shallow water,0
+hair is removed with a razor blade .,an eyelash can be removed with a blade,1
+a clock is set to a specific time .,a wall clock can be set to the current time,1
+crockery is found in the kitchen .,dishes can be found in the dining area,0
+a green vegetable is added to a recipe to add color .,celery is added to soups,0
+a juniper is found growing in a forest .,a juniper can be found in a field,0
+a puffin should be able to fly .,a tufted puffin should be able climb trees,0
+skunks produce an odor .,skunks produce a chemical called skunk spray,1
+constipation is treated with laxatives .,fecal impactions can be treated with an antibiotic,0
+a venomous snake has the ability to inject venom via its fangs .,a venomous snake has a powerful bite,0
+Molluscs have been around for a very long time .,molluscs have been around a lot longer than humans,0
+a will is used to transfer property to a beneficiary .,devises are used to transfer money,0
+periodontal disease produces inflammation of the gums .,alveolar resorption produces cavities in the teeth,0
+a painting should be placed on a flat surface .,a tempera painting should be placed on an easel,1
+Stomachs are an important part of the body .,stomachs are an important part of digestive systems,1
+a cake is made with a mixture .,a chiffon cake can be made with only a few ingredients,1
+"a conflict is resolved through negotiation , mediation or arbitration .",a military conflict can be resolved through the use of military force,0
+a household should be able to meet its basic needs .,a household should be able pay for food,1
+energy is used to move .,energy is used to interact with the environment,0

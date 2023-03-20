@@ -1,0 +1,63 @@
+sentence1,sentence2,label
+constipation should be treated with laxatives or enemas .,a chronic constipation should be treated with enema therapy,1
+a venomous snake is distinguished from other snakes .,a constrictor is distinguished from a pit viper,0
+"a green vegetable is eaten raw , but it is best to cook them .","cauliflowers can be eaten raw, but cooked ones are better",0
+botany can consist of many different fields .,"a poinsettia plant consist of leaves, flowers, and roots",0
+a detergent is used to clean .,a detergent is used to sanitize,1
+an air pollution has an adverse effect on human health .,unburned hydrocarbons and carbon monoxides have been shown to cause lung cancer,1
+a venomous snake is identified .,a cobra is defined as a venomous reptile,1
+a detergent is used to clean .,laundry detergents can be used to wash clothes,1
+constipation should be treated with laxatives or enemas .,fecal impactions should be treated with an antiseptic,0
+botany can consist of many different fields .,the study of trees consist of many different methods,0
+an air pollution has an adverse effect on human health .,small-particle pollution have an impact on the environment,0
+a venomous snake is distinguished from other snakes .,pit vipers can be distinguished from rattlesnakes,1
+an ovum has been fertilized by a sperm cell .,an eggs have been fertilized by one or more sperm,1
+"a green vegetable is eaten raw , but it is best to cook them .",celery can be eaten by itself,1
+"a musical note is played on a piano , violin , cello , harpsichord , etc .",musical notes can be played on a keyboard,1
+an air pollution has an adverse effect on human health .,unburned hydrocarbons and carbon monoxide has been reported,0
+an air pollution has an adverse effect on human health .,air pollution caused by car exhaust has been associated with increased mortality,1
+cold storages are stored in the freezer .,warm cold storages can be stored in a warm room,0
+cold storages are stored in the freezer .,cold cold storages can be stored in an ice chest,1
+an ointment should be applied directly to the affected area .,over-the-counter pain relievers should be applied directly to the skin,0
+Aquatic animals are found in the water .,a crocodile is found in rivers and lakes,1
+Aquatic animals are found in the water .,freshwater fish are found in lakes and rivers,0
+a venomous snake is distinguished from other snakes .,pythons are distinguished from rattlesnakes,1
+a venomous snake is distinguished from other snakes .,a cobra is distinguished from a viper,0
+clocks are synchronized to the second .,an alarm clock can be synchronized to the minute,0
+clocks are synchronized to the second .,an analog clock can be synchronized to a digital signal,0
+Coincidences are everywhere in life .,a coincidences can be the result of a random event,0
+constipation should be treated with laxatives or enemas .,constipation brought on by laxatives should be treated with a liquid diet,0
+a venomous snake is distinguished from other snakes .,pythons can be distinguished from pit vipers,1
+"a green vegetable is eaten raw , but it is best to cook them .",a green vegetable can be eaten as a salad,0
+an ovum has been fertilized by a sperm cell .,a mature ovum has been fertilized by one or more oocytes,1
+botany can consist of many different fields .,a non-native botany consist of different types of plants,0
+botany can consist of many different fields .,a potted plant consist of many different parts,0
+a detergent is used to clean .,a dishwashing detergent can be used to sanitize dishes,1
+"a musical note is played on a piano , violin , cello , harpsichord , etc .",a musical note is played on a trumpet,1
+an air pollution has an adverse effect on human health .,particulate matter has been implicated in the development of lung cancer,0
+a venomous snake is identified .,a poisonous snake should not be confused with a nonvenomous snake,0
+a hedge shears is used to cut through a hedge .,a pair of shears can be used to cut through hedge,1
+a hedge shears is used to cut through a hedge .,a hedge shears with a curved blade can be used to slice through a thick hedge,1
+Remote control is used to control the device from an external device .,a remote control for a television is used to turn on the television,1
+an air pollution has an adverse effect on human health .,industrial air pollution have a negative impact on the environment,0
+clocks are synchronized to the second .,clocks can be synchronized to each other,0
+botany can consist of many different fields .,paleobotanies consist of plant and animal species,0
+"a musical note is played on a piano , violin , cello , harpsichord , etc .",musical notes can be played on the piano,1
+an air pollution has an adverse effect on human health .,small-particle pollution have been linked to increased risk of lung cancer,1
+a venomous snake is identified .,a coral snake is a venomous coral snake,1
+an air pollution has an adverse effect on human health .,small-particle pollutions have an adverse impact on the environment,0
+a venomous snake is distinguished from other snakes .,a coral snake is distinguished from a water moccasin,1
+Remote control is used to control the device from an external device .,a remote control is used to change the volume,0
+a venomous snake is distinguished from other snakes .,a venomous snake is distinguished from a nonvenomous reptile,1
+a venomous snake is distinguished from other snakes .,pit vipers can be distinguished from vipers,1
+clocks are synchronized to the second .,clocks can be synchronized to a time zone,0
+a detergent is used to clean .,a cationic detergent can be used to wash clothes,1
+constipation should be treated with laxatives or enemas .,obstipation should be treated with diet and exercise,0
+Coincidences are everywhere in life .,coincidences can be a good thing,0
+an ointment should be applied directly to the affected area .,mercurial ointments should not be applied directly to the skin,0
+Aquatic animals are found in the water .,aquatic animals can be found in freshwater lakes and rivers,1
+botany can consist of many different fields .,phycology consist of the study of plants and animals,0
+cold storages are stored in the freezer .,cold storages can be stored in a cooler,0
+Aquatic animals are found in the water .,aquatic animals can be found in rivers and streams,1
+a hedge shears is used to cut through a hedge .,a hedge shears should not be used to kill a hedgehog,0
+cold storages are stored in the freezer .,cold storages can be stored in a refrigerator,0

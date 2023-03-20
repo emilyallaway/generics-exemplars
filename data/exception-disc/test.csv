@@ -1,0 +1,89 @@
+sentence1,sentence2,label
+an x - ray produces an image .,a ray produces a line,1
+water parks is closed due to inclement weather or other unforeseen circumstances .,natural water parks are closed due to maintenance,1
+a venomous snake is identified .,a pit viper is not a snake,0
+spaceships must be able to move .,the motherships must be able to fire,1
+swamps has many different types of plants .,marshes have many different kinds of animals,1
+"a musical note is played on a piano , violin , cello , harpsichord , etc .",a flute is played on the strings,0
+a license plate should have a number .,a massachusetts license plate should have a letter,1
+constipation should be treated with laxatives or enemas .,constipation brought on by laxatives should be treated with a liquid diet,1
+Telephone has been used to communicate .,telephones have been used to store information,1
+an x - ray produces an image .,a stingray produces a cone,0
+water parks is closed due to inclement weather or other unforeseen circumstances .,water parks are closed due solely to maintenance,1
+a venomous snake is identified .,a pit viper should not be referred to as a snake,0
+spaceships must be able to move .,spaceships must be able to fire,1
+swamps has many different types of plants .,swamps have many different kinds of animals,1
+a license plate should have a number .,a license plate should have a design,1
+a hotel rooms have their own bathroom .,hotel rooms have a kitchenette,1
+constipation should be treated with laxatives or enemas .,constipation should be treated with stool softeners,0
+a whisk is used to stir up the batter .,a whisk can be used to break up the eggs,1
+Telephone has been used to communicate .,telephones have been used to store information,1
+an ovum has been fertilized by a sperm cell .,an egg has been fertilized by a yolk cell,1
+spaceships must be able to move .,space shuttles must be able to land,1
+an ill patient is admitted to the hospital with symptoms .,an ill patient is admitted to a psychiatric facility,0
+ladles is found in the kitchen .,a ladle with a long handle can be found in a kitchen,0
+a whisk is used to stir up the batter .,a kitchen whisk can be used to beat egg whites,1
+an ointment should be applied directly to the affected area .,an ointment with a pungent scent should be applied directly on the wound,0
+an x - ray produces an image .,an x-ray produces an intensity value,1
+lactose intolerances must be diagnosed by a doctor .,an intolerance to lactose in cheese must be diagnosed by an endocrinologist,0
+lactose intolerances must be diagnosed by a doctor .,lactose-intolerants must be diagnosed by a physician,0
+cold storages are stored in the freezer .,warm cold storages can be stored in a refrigerator,0
+"frostbite produces pain , numbness , tingling , or weakness .",frostbites produce a burning or stinging sensation,1
+an ovum has been fertilized by a sperm cell .,a mature ovum has been fertilized by a mature sperm,0
+cold storages are stored in the freezer .,a winter cold storages can be stored in an ice chest,0
+lactose intolerances must be diagnosed by a doctor .,an intolerance to the lactose in milk must be diagnosed by the patient,1
+platelets is isolated from the blood .,a container of platelets can be isolated from a patient's blood,0
+a human embryo is implanted in a woman's uterus .,a very early human embryo can be implanted in the womb,0
+an ovum has been fertilized by a sperm cell .,an egg has been fertilized by a yolk cell,1
+spaceships must be able to move .,space shuttles must be able to land,0
+an ill patient is admitted to the hospital with symptoms .,an ill patient is admitted to a psychiatric facility,1
+a seed plant produces seed pods .,a dandelion produces a seed pod,0
+a bluetooth speaker should be connected to your phone via Bluetooth .,a speaker with built-in rechargeable battery should not be connected to a cell phone,1
+swamps has many different types of plants .,peat bogs have mosses and lichens,0
+an ointment should be applied directly to the affected area .,an ointment with a pungent scent should be applied directly on the wound,0
+Remote control is used to control the device from an external device .,a remote control for a television can be used to change the channel,0
+Remote control is used to control the device from an external device .,a touch screen remote control can be used to turn the device on and off,0
+lactose intolerances must be diagnosed by a doctor .,an intolerance to the lactose in milk must be diagnosed by an endocrinologist,0
+lactose intolerances must be diagnosed by a doctor .,lactose-intolerants must be diagnosed by a physician,0
+an x - ray produces an image .,a ray of gamma-rays produces a light beam,1
+air pollutions are caused by burning fossil fuels .,pollution caused by burning fossil fuels can be caused by human activity,1
+cold storages are stored in the freezer .,frozen storages can be stored in the freezer for up to one year,0
+owls should be left alone .,barn owls should be left in the wild,0
+an air pollution has an adverse effect on human health .,carbon monoxide has been shown to cause lung cancer,0
+an air pollution has an adverse effect on human health .,smoke from a forest fire has been shown to cause lung cancer,0
+"frostbite produces pain , numbness , tingling , or weakness .",frostbite of the toes produces blisters,1
+cold storages are stored in the freezer .,cold storages can be stored in a cooler,1
+cold storages are stored in the freezer .,frozen storages can be stored in an ice chest,1
+cold storages are stored in the freezer .,winter cold storages can be stored in an ice chest,1
+an aloha shirt can consist of a shirt .,a short-sleeved aloha shirt consist of short sleeves,0
+"a green vegetable is eaten raw , but it is best to cook them .",fresh broccoli sprouts can be eaten as is,0
+Aquatic animals are found in the water .,aquatic animals can be found in the air,1
+a venomous snake is distinguished from other snakes .,a pythons can be distinguished from a pit viper,0
+a venomous snake is distinguished from other snakes .,rattlesnakes can be distinguished from other venomous reptiles,0
+platelets is isolated from the blood .,a container of platelets can be isolated from a patient's blood,0
+water parks is closed due to inclement weather or other unforeseen circumstances .,waterparks can be closed due a lack of staffing,0
+clocks are synchronized to the second .,a digital clock can be synchronized to one second,0
+clocks are synchronized to the second .,analog clocks can be synchronized to the first,0
+Coincidences are everywhere in life .,a coincidence involving three people can be a good thing or a bad thing,0
+an ointment should be applied directly to the affected area .,over-the-counter pain relievers should be applied directly to the skin,0
+a venomous snake is identified .,a rattlesnake should not be confused with a pit viper,0
+spaceships must be able to move .,a space shuttle must be able to land,1
+swamps has many different types of plants .,a mangrove swamps have many different plant species,0
+a detergent is used to clean .,a liquid detergent can be used to wash clothes,0
+botany can consist of many different fields .,potted plants consist of many different plants,0
+a license plate should have a number .,a driving license plate should have a number that identifies the vehicle,0
+constipation should be treated with laxatives or enemas .,constipation with diarrhea should be treated with a liquid diet,1
+owls should be left alone .,barn owls should be left to fend for themselves,0
+Telephone has been used to communicate .,an old-fashioned telephone has been used to send messages,0
+a hedge shears is used to cut through a hedge .,a hedge shears with a sharp blade is used to cut through the hedge,0
+a hedge shears is used to cut through a hedge .,a hedge shears with a sharp blade is used to cut a small hedge,0
+a hedge shears is used to cut through a hedge .,a hedge shears should not be used to kill a hedgehog,0
+Remote control is used to control the device from an external device .,a remote control is used to change the volume,0
+an air pollution has an adverse effect on human health .,small-particle pollutions have an adverse impact on the environment,1
+an air pollution has an adverse effect on human health .,smog have a negative impact on the environment,1
+cold storages are stored in the freezer .,cold storages can be stored in a cooler,1
+Aquatic animals are found in the water .,aquatic animals can be found in freshwater lakes and rivers,0
+a venomous snake is distinguished from other snakes .,a venomous snake can be distinguished from a pit viper,0
+clocks are synchronized to the second .,clocks can be synchronized to each other,0
+clocks are synchronized to the second .,clocks can be synchronized to a time zone,0
+botany can consist of many different fields .,phycology consist of the study of plants and animals,0

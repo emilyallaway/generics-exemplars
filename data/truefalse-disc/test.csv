@@ -1,0 +1,778 @@
+sentence1,label
+a same-sex wedding has a gay couple's name,1
+a same-sex wedding has a couple's names,1
+a bar mitzvah have a couple's name,0
+a bar mitzvah have a couple's names,0
+a bar mitzvahs have a couple's name,0
+a wedding does not have a couple,0
+a wedding does not have a couple's name,0
+a wedding do not have a couple name,0
+a wedding do not have a name,0
+a bar mitzvah does not have that luxury,0
+a kale plant has a thick stem,1
+a red leafy kale has a reddish hue,1
+a red leafy kale has a reddish tint,1
+a green leafy kale has the same color,0
+a dark leafy kale has dark green leaves,1
+a fresh kale has an earthy taste,1
+green leafy kales have a slightly bitter taste,1
+a kale has the appearance of being wilted,1
+kales have been known to be bitter,1
+a green leafy kale has a tinge of green,1
+a red kale does not have this characteristic,0
+green kales do not have a strong taste,0
+a fresh kale does not have a strong smell,0
+red kales do not have a tinge of red,0
+a black kale does not have this effect,0
+a bar mitzvah has a family name,0
+a same-sex wedding has only one,0
+a same-sex wedding has a couple's name,0
+a bar mitzvah have a name,0
+a bar mitzvah have more than one name,0
+a bottle-nosed dolphin is not found in the water,0
+a large porpoise can not be found in the water,0
+a large porpoise can not be found in the ocean,0
+a sea porpoise is not found in the water,0
+a sea porpoise is not found in the sea,0
+a caterer does not have the right,0
+a same-sex wedding do not have the same name,0
+a same-sex wedding do not have this problem,0
+a free-spirited wedding does not have a single name,0
+a free-spirited wedding does not have a couple's name,0
+"a green leafy kale has chlorophyll, which is green",1
+a red leafy kale has green leaves,1
+a red leafy kale has dark green leaves,1
+a dark leafy kale has a darker green color,1
+a dark leafy kale has a green tint,1
+porpoises do not have the strength to swim long distances,0
+porpoises do not have a respiratory system,0
+small porpoises do not have the stamina to swim long distances,0
+small porpoises do not have the same ability,0
+a small porpoise is not found in the water,0
+a small porpoise is not found swimming in the water,0
+a narwhal is not found in the vicinity,0
+a narwhal is not found in the water,0
+a bottle-nosed dolphin is not found in the area,0
+a leafy kale has a light green color,1
+a green leafy kales has a tinge of green,1
+a blue leafy kale has a green tint,1
+a red leafy kales has a reddish hue,1
+a green leafy kales have a tinge of green,1
+a kale does not have a strong taste,0
+kales do not have a distinctive taste,0
+sea porpoises do not have the strength to swim long distances,0
+sea porpoises do not have a respiratory system,0
+finless porpoises do not have a swim bladder,0
+finless porpoises do not have a dorsal fin,0
+river porpoises do not have this ability,0
+rays of light can be used to illuminate a scene,1
+a ray gun can be used to shoot down enemy aircraft,1
+a ray from the sun is used to determine the time of day,1
+a ray can be used to measure the distance between two points,1
+a ray is used to measure the distance between two objects,0
+mammals do not have a central sense of smell,0
+giraffes do not have a brain like humans,0
+dogs do not have a brain like humans,0
+cats do not have a brain,0
+whales do not have a brain like humans,0
+a florist does not have the same luxury,0
+a florist does not have that luxury,0
+a tuxedo does not have a surname,0
+a tuxedo does not have a name,1
+a bar mitzvah has a name,0
+sea porpoise have been known to swim up to 100 miles,0
+a wedding has a bride and groom,1
+a wedding have a couple names,0
+a wedding have a couple's names,0
+a bar mitzvah has a bride and groom,0
+a bar mitzvah has a bride and groom's name,0
+large mammals have large brains,1
+large mammals have highly developed eyes,1
+cats have only one,0
+small mammals have an olfactory bulb,1
+elephants have a trunk,1
+a porpoise can not be found in the sea,0
+a large porpoise is not found in the water,0
+a large porpoise is not found in the ocean,0
+a bottlenose dolphin is not found in the area,0
+a bottlenose dolphin is not found in the vicinity,0
+a ray from the sun should not be used to treat a sunburn,1
+a ray from a mobile phone can not be used to treat cancer,1
+the rays of the sun can not be used to treat diseases,1
+x-rays can be used to examine the internal structure of the body,1
+x-rays are used to examine the internal structure of the body,1
+bar mitzvahs do not have that luxury,0
+bar mitzvahs do not have this requirement,0
+same-sex weddings do not have that luxury,0
+same-sex weddings do not have this requirement,0
+a caterer does not have the same rights,0
+green kales have smaller leaves,0
+red kales have a reddish hue,1
+a leafy kale has a slightly bitter taste,1
+"a leafy kale has small, dark green leaves",1
+a red kale has a reddish hue,1
+x-rays can be used to diagnose heart disease,0
+a ray from the sun can be used to treat skin cancer,0
+a ray from a laser can be used to diagnose a blood clot,0
+a ray from a laser can be used to treat skin cancer,0
+x-rays are used to look for cancer,1
+a bottlenose dolphin can not be found in the area,0
+a small porpoise can be found in the lagoon,0
+a small porpoise can be found in the river,0
+a large porpoise can be found in the river,0
+a large porpoise can be found in the sea,1
+a ray from a laser can be used to illuminate a target,1
+a ray from the sun can be used to illuminate a room,1
+the rays of the sun can be used to illuminate objects,1
+a ray from a mobile phone can be used to locate a person,0
+a ray from a laser is used to treat eye diseases,1
+sea porpoise have the ability of swimming,1
+dolphins have been known to swim up to 100 miles per hour,0
+dolphins have the ability,0
+killer whales have been known to swim up to 100 miles per hour,0
+killer whales have the ability,0
+hippopotamus do not have a brain like humans,0
+mice do not have a brain,0
+pigs do not have a brain like humans,0
+giraffes have a more complex brain,0
+dogs have only one,0
+a bar mitzvahs have a couple's names,0
+a caterer has two names,0
+a bar mitzvahs has a bride and groom,0
+a bar mitzvahs has a bride and groom's name,0
+a free-spirited wedding has the couple's name,0
+sea porpoises have been observed to swim up to 100 miles per hour,0
+beluga whales have been seen swimming,1
+beluga whales have been seen swimming in the open ocean,1
+a finless porpoise have been seen swimming,0
+a finless porpoise have been observed swimming,0
+bar mitzvahs have a name,1
+bar mitzvahs have a couple of names,0
+a caterer has a menu,1
+a caterer has a name,1
+a tuxedo has a suit,0
+a bottle-nosed dolphin is found in the lagoon,0
+a bottle-nosed dolphin is found in the water,1
+a common porpoise can be found in the area,0
+a common porpoise can be found in the river,0
+a narwhal can be found in the ocean,1
+a red kales has a reddish hue,1
+a grey porpoise is not found in the water,0
+a grey porpoise is not found swimming in the water,0
+a bottle-nosed dolphin can not be found in the water,0
+a bottle-nosed dolphin can not be found in the area,0
+a bottlenose dolphin can not be found in the vicinity,0
+elephants have a trunk and a brain,1
+"mice have a brain, while humans have a spinal cord",1
+foxes have a tail,1
+small mammals have a brain and a spinal cord,1
+large mammals have a brain and spinal cord,1
+beluga whales have the largest brains of any animal,0
+river porpoises have a very large brain,0
+river porpoises have a high tolerance for cold,0
+small porpoise have a high tolerance for salt,0
+small porpoise have a very low metabolic rate,0
+a tuxedo has a number,0
+a florist has a name,1
+a florist has a flower,1
+a free-spirited wedding has more than one name,0
+a free-spirited wedding has many names,0
+dolphins have learned to communicate with each other,1
+dolphins have been seen swimming,1
+finless porpoise have been recorded swimming,1
+finless porpoise have been spotted,0
+sea porpoise have excellent eyesight,1
+finless porpoise do not have a tail,0
+whales do not have this trait,0
+whales do not have the same ability,0
+small porpoises have a very low metabolic rate,0
+small porpoises have a high tolerance for salt,1
+elephants have a more complex brain,0
+foxes have a more complex brain,0
+whales have a highly complex brain,1
+hippopotamus have a very complex brain,1
+"mice have a brainstem, which controls breathing",1
+foxes do not have an equivalent,0
+foxes do not have a brain,0
+elephants do not have a brain,0
+small mammals do not have a complex nervous system,0
+small mammals do not have a brain,0
+mammals have a heart and lungs,1
+giraffes have a long neck,1
+dogs have a dog brain,1
+cats have a brain,1
+elephants have trunks,1
+an elopement has a name,0
+an elopement has the couple's name,0
+a bridal gown has a number,0
+a bridal gown has a designer name,1
+a wedding has a number,0
+a ray from a mobile phone can be used to detect a heart attack,0
+a ray from the sun is used to treat skin cancer,0
+a ray from a laser is used to treat skin cancer,0
+the rays of the sun can be used to treat skin cancer,0
+rays of light can be used to diagnose eye diseases,0
+a small porpoise is found in the river,0
+a large porpoise is found in the river,0
+a large porpoise is found in the sea,1
+a bottle-nosed dolphin can be found in the lagoon,0
+a bottle-nosed dolphin can be found in the water,1
+a ray from a laser should not be used to treat a condition,0
+a ray from the sun can not be used to cure cancer,1
+a ray from a mobile phone should not be used to scan for cancer,1
+a ray from a laser can not be used to treat cancer,0
+the rays of the sun should not be used to treat diseases,1
+a green leafy kale does not have a tinge of green,0
+a red leafy kale does not have this characteristic,0
+a dark leafy kale does not have this characteristic,0
+a kale plant does not have a single leaf,0
+a leafy kale does not have this characteristic,0
+a free-spirited wedding has the couple's names,0
+an elopement has two names,0
+an elopement has a couple names,0
+a tuxedo has a bride and groom's name,0
+a tuxedo has two names,0
+small porpoises have been known to swim up to 30 miles per hour,0
+small porpoises have been observed to swim up to 30 miles per hour,0
+finless porpoises have been seen swimming in the ocean,1
+finless porpoises have been filmed swimming,1
+sea porpoises have been known to swim up to 100 miles per hour,0
+a bottlenose dolphin can be found in the lagoon,0
+a bottlenose dolphin can be found in the water,1
+a bottlenose dolphin is found in the lagoon,0
+a bottlenose dolphin is found in the area,0
+a small porpoise is found in the lagoon,0
+small mammals have the brain and spinal cord,1
+a narwhal can be found in the area,0
+a porpoise can be found in the river,0
+a porpoise can be found in the ocean,1
+a porpoise is found in the river,0
+a porpoise is found in the ocean,1
+river porpoises do not have the same ability,0
+beluga whales do not have the same ability,0
+beluga whales do not have these abilities,0
+small porpoise do not have the strength to do so,0
+small porpoise do not have the stamina to swim long distances,0
+dolphins do not have this trait,0
+dolphins do not have the same ability,0
+sea porpoise do not have the strength to swim long distances,0
+sea porpoise do not have a respiratory system,0
+finless porpoise do not have a swim bladder,0
+a ray should not be used to treat a patient,0
+a ray can not be used to treat a disease,0
+"x-rays should not be used to diagnose, treat or prevent disease",1
+x-rays can not be used to see inside the body,0
+a ray from a laser should not be used to treat cancer,0
+a large porpoise is found swimming in the sea,1
+a large porpoise is found swimming in the ocean,1
+a bottle-nosed dolphin can be found swimming in the ocean,1
+a sea porpoise can be found swimming in the sea,1
+a sea porpoise can be found swimming in the ocean,1
+a ray from a mobile phone is used to scan for cancer,0
+sea porpoise have large eyes,1
+whales have a very large brain,1
+whales have been recorded swimming,1
+porpoises have highly developed eyesight,1
+porpoises have highly developed eyes,1
+sea porpoises have highly developed eyesight,1
+sea porpoises have highly developed eyes,1
+finless porpoises have a very low metabolic rate,0
+finless porpoises have been reported,0
+beluga whales have the largest brains of any mammal,0
+large mammals have the brain and spinal cord,1
+whales have a brain and a spinal cord,1
+hippopotamus have a heart,1
+dogs have a brain,1
+mice have a brainstem that controls breathing,1
+a small porpoise can be found swimming in the sea,1
+a small porpoise can be found swimming in the ocean,1
+a large porpoise can be found swimming in the sea,1
+a large porpoise can be found swimming in the ocean,1
+a common porpoise can be found swimming in the ocean,1
+a porpoise is not found in the water,0
+a porpoise is not found swimming in the water,0
+a porpoise can not be found in the water,0
+a bar mitzvah does not have that distinction,0
+a same-sex wedding does not have this requirement,0
+a same-sex wedding does not have a couple's name,0
+a bar mitzvah do not have that luxury,0
+a bar mitzvah do not have a family name,0
+river porpoises have been known to swim up to 100 miles,0
+river porpoises have been known to swim up to 100 miles per hour,0
+a small porpoise have been known to swim up to 30 miles per hour,0
+a small porpoise have been seen swimming in the ocean,1
+sea porpoise have been known to swim up to 100 miles per hour,0
+a bridal gown has a bride and groom's name,0
+a bridal gown has a bride's name,1
+a bottlenose dolphin is found in shallow water,0
+a bottlenose dolphin is found in the water,1
+a common porpoise is found in the ocean,1
+a common porpoise is found in the sea,1
+a common porpoise can be found swimming in the sea,1
+a small porpoise is found swimming in the sea,0
+a small porpoise is found swimming in the water,1
+a bottlenose dolphin can be found swimming in the Gulf of Mexico,1
+a bottlenose dolphin can be found in shallow water,1
+radiators are not designed to remove heat,0
+car radiators are not designed to dissipate the heat,0
+electric radiators are not designed to dissipate energy,0
+ceramic radiators are not designed to dissipate high amounts of heat,0
+cast iron radiators are not designed to dissipate the heat,0
+baseboard radiators are not designed to remove heat from the CPU,1
+a radiator that has a thermostat is not designed to cool the radiator,1
+a car radiator is not designed to dissipate the heat from the engine,0
+heating radiators are not designed to dissipate energy,0
+radiators in the basement are not designed to dissipate the heat,0
+gas radiators are not designed to dissipate energy,0
+gas radiators are not designed to dissipate the heat,0
+car radiators are designed to cool the engine,1
+car radiators should be designed to withstand high temperatures,1
+car radiators should be designed to provide a minimum of 12,0
+heating radiators are designed to provide cooling to the CPU,0
+a radiator that has a thermostat can be designed to control the temperature,1
+electric radiators are designed to provide power,0
+electric radiators are designed to be more efficient,1
+a radiator that has a thermostat is designed to maintain a certain temperature,1
+heating radiators should be designed to operate at a constant temperature,1
+ceramic radiators are designed to operate at higher temperatures,1
+replacement radiators should be designed to the same standards as the original,1
+baseboard radiators are designed to keep the processor and other components cool,0
+radiators are designed to operate at a constant temperature,0
+car radiators are designed to remove heat from the engine bay,0
+a car radiator is designed to remove heat from the engine,0
+a radiator that has a thermostat is designed to regulate the temperature of the radiator,1
+a radiator that has a thermostat can be designed to operate at a certain temperature,1
+a car radiator can be designed to remove heat from the engine compartment,1
+ceramic radiators are designed to allow heat to escape,1
+car radiators can be designed to remove heat from the engine,1
+car radiators can be designed to remove heat from the engine bay,1
+electric radiators are designed to radiate heat away,0
+gas radiators are designed to remove heat from the engine,0
+an electric radiator is designed to remove heat from the power supply,0
+a car radiator is designed to dissipate the heat from the engine,1
+an arrangement is not made to pay the landlord,0
+an arrangement should not be made to pay a security deposit,0
+utensils in the kitchen are not made to the standard,0
+utensils in the kitchen can not be made to look like a kitchen,0
+a bouquet of flowers can not be made to go with the rent,0
+a potted plant should not be made to look like a bed,1
+a bouquet of flowers is not made to go to the landlord,0
+a potted plant can not be made to be part of the rent,0
+a gift certificate should not be made to the tenant by the landlord,0
+a gift card can not be made to a third party,0
+a floral arrangement should not be made to the detriment of the tenant,0
+potted plants should not be made to grow in the garden,0
+a bouquet of flowers is made to be given to the tenant,0
+a bouquet of flowers can be made to be delivered to the tenant,0
+a gift certificate is made to a charity,0
+a gift card can be made to a charitable organization,1
+utensils in the kitchen are made to be cleaned,1
+a gift certificate can be made to a charity,0
+a gift card is made to a charity,0
+utensils in the kitchen can be made to look like a microwave,0
+a floral arrangement is made to decorate the living room,1
+a potted plant can be made to look like a bed,0
+an arrangement is made to provide security,0
+an arrangement can be made to purchase the property,0
+an alphabetical arrangement is made to pay the landlord,0
+a gift card can be made to the landlord for rent,0
+utensils in the kitchen can be made to go to the landlord,0
+utensils in the kitchen are made to fit the kitchen,0
+an alphabetical arrangement can be made to rent a room in a house,0
+a bouquet of flowers can be made to be delivered to the landlord,1
+a gift certificate can be made to the landlord for rent,0
+a gift card is made to pay the rent,0
+a gift certificate is made to the landlord and given to the tenant,0
+a floral arrangement is made to be paid to the landlord,0
+a floral arrangement is made to pay rent to the landlord,0
+an alphabetical arrangement is made to rent a room in a house,0
+aloe should not be used to treat acne,0
+aloe should not be used to cure or treat any skin condition,0
+aloe is not used to treat acne,0
+aloe vera should not be used to treat acne,0
+aloe vera should not be used to cure or treat any skin condition,0
+aloe vera is not used to treat acne,1
+aloe barbadensis should not be used to treat acne,1
+aloe barbadensis should not be used to treat severe cases of acne,1
+an aloe vera plant should not be used to cure skin conditions,0
+"an aloe vera plant should not be used to cure, treat, or prevent any disease",0
+aloe leaves should not be used to treat acne,0
+"aloe vera plants should not be used to cure, treat, or prevent any disease",0
+aloe vera plants should not be used to cure skin conditions,0
+aloe vera plants are not used to treat acne,0
+aloe barbadensis is not used to treat acne,0
+an aloe vera plant can not be used to cure skin conditions,0
+aloe leaves are not used to treat acne,0
+aloe vera can be used to treat rheumatoid arthritis,0
+aloe vera is used to treat wounds,1
+aloe vera plants can be used to soothe and heal wounds,1
+aloe leaves can be used to treat rheumatoid arthritis,0
+aloe barbadensis can be used to reduce the appearance of fine lines and wrinkles,0
+aloe vera plants are used to treat wounds,1
+aloe vera plant can be used to relieve pain and inflammation,0
+aloe barbadensis is used to treat wounds and burns,1
+aloe leaves are used to treat rheumatoid arthritis,0
+aloe vera plant is used to treat wounds,1
+aloe vera plant is used to treat rheumatoid arthritis,0
+aloe can be used to help heal wounds,1
+aloe is used to treat wounds,1
+aloe is used to heal wounds,1
+aloe vera can be used to treat eczema and psoriasis,1
+aloe vera is used to treat eczema and psoriasis,1
+aloe vera plants can be used to treat eczema and psoriasis,1
+an aloe vera plant can be used to reduce inflammation,1
+aloe should not be confused with the aloe vera plant,0
+aloe should not be used by pregnant women,0
+aloe is not a vegetable,1
+aloe is not a drug,1
+an aloe vera plant is not an herb,0
+an aloe vera plant is not a vegetable,1
+an aloe vera plant should not be thought of as a single plant,0
+an aloe vera plant can be used to reduce redness,1
+aloe barbadensis can be used to treat acne and rosacea,0
+aloe barbadensis can be used to treat rosacea and psoriasis,0
+aloe leaves can be used to treat eczema and psoriasis,0
+aloe vera plants are used to treat eczema and psoriasis,0
+an aloe vera plant should not be used as a cosmetic,0
+an aloe plant is not a vegetable,1
+an aloe plant is not a human,1
+aloe vera should not be used by pregnant women,0
+aloe vera should not be ingested by children,1
+aloe barbadensis is used to treat acne and rosacea,1
+aloe barbadensis is used to treat eczema and psoriasis,1
+an aloe vera plant is used to help treat acne,1
+aloe leaves are used to treat eczema and psoriasis,1
+aloe barbadensis can be used to relieve the symptoms of acne,1
+aloe vera is not an herb,1
+aloe vera is not a drug,1
+an aloe plant should not be thought of as a single plant,0
+an aloe plant should not be thought of as a vegetable,1
+aloe vera aloe should not be mixed with any other ingredients,0
+aloe vera aloe should not be used by pregnant women,0
+an aloe plant with succulent leaves is not a plant at all,0
+an aloe plant with succulent leaves is not a vegetable,0
+aloe vera plants should not be mixed with any other plant,0
+aloe vera plants should not be mixed with any other plants,0
+an aloe vera aloe leaf is not an herb,1
+an aloe vera aloe leaf is not a leaf,0
+an aloe vera plant can be made into a cosmetic,1
+an aloe vera plant can be made into a tea,1
+an aloe vera plant is not a fruit,1
+an aloe vera plant is an herb,1
+aloe vera is a natural moisturizer,1
+aloe vera is derived from the leaves,1
+aloe vera can be made into a tea,1
+aloe vera can be toxic to dogs,1
+an aloe plant can be used to heal wounds,1
+an aloe plant can be a lot more than that,0
+aloe vera plants can be toxic to dogs and cats,1
+aloe vera plants can be toxic to dogs,1
+an aloe vera aloe leaf can be used as a substitute,0
+an aloe vera aloe leaf can be made into a gel,1
+an aloe plant is not a drug,1
+aloe vera aloe leaves can be applied topically,1
+aloe vera aloe leaves can be eaten raw,1
+aloe vera plants are used in the manufacture of cosmetics,1
+aloe vera plants are used in cosmetics,1
+aloe can be used as a supplement,1
+aloe can be applied topically,1
+aloe is a fruit,0
+aloe is an essential oil,0
+an aloe vera plant can be used to heal wounds,1
+an aloe vera plant can be found growing in the desert,1
+an aloe vera plant is a leafy plant,1
+aloe vera is an herb,1
+aloe vera is a leafy plant,1
+aloe vera can be used to heal wounds,1
+aloe vera can be used to treat burns,1
+an aloe plant can be found in the wild,1
+aloe vera plants can be used to heal wounds,1
+aloe vera plants can be used to treat burns,1
+aloe vera aloe leaves can be used to heal wounds,1
+aloe vera aloe leaves can be made into a tea,1
+an aloe vera aloe leaf can be used to heal wounds,1
+an aloe vera aloe leaf can be found in the grocery store,1
+aloe vera aloe is an aloe plant,1
+aloe vera aloe is an herb,0
+aloe vera plants are a type of plant,1
+aloe vera plants are a type of shrub,0
+aloe vera aloe is the name of the plant,1
+a ray does not produce a point,0
+a ray does not produce a line,0
+rays do not produce a point,0
+rays do not produce a complete image,0
+an x-ray does not produce a point,0
+an x-ray does not produce a complete image,1
+a ray of x-rays does not produce an image of x,0
+a ray of x-rays does not produce any images,0
+a ray of light does not produce an object,1
+a beam of light does not produce a line,1
+a beam of light does not produce a complete image,1
+a ray of x-rays do not produce a picture,1
+a ray of x-rays do not produce a complete image,1
+a ray of gamma-rays does not produce the same effect,0
+a ray of gamma-rays does not produce the same result,0
+x-rays do not produce any light,0
+x-rays do not produce a color image,1
+an x-ray do not produce a complete image,0
+an x-ray do not produce a point,0
+a vector ray does not produce a point,0
+a vector ray does not produce a vector,0
+an x-ray produces an intensity value,1
+an x-ray produces a vector,1
+a ray of x-rays produces a line,1
+a ray of x-rays produces a vector,1
+a ray of light produces a shadow,1
+a ray of x-rays produce a line,0
+a ray of x-rays produce a vector,0
+a beam of light produces a light beam,1
+a beam of light produces a wavefront,0
+x-rays produce a spectrum,0
+x-rays produce an intensity value,1
+a vector ray produces a line segment,0
+a vector ray produces a line,0
+an x-ray produce a beam,1
+an x-ray produce an intensity value,1
+a ray of gamma-rays produces a light,0
+a ray of gamma-rays produces a light beam,0
+a ray produces a line,0
+a ray produces a vector,0
+a ray produce a line,0
+a ray produce a color,0
+an x-ray produces a red image,0
+an x-ray produces an image of a square,0
+a ray of x-rays produces a red image,0
+a ray of x-rays produces an x image,0
+a ray of light produces an image of a light source,1
+a beam of light produces a circle,0
+a beam of light produces an image of a sphere,0
+a ray of x-rays produce an image of x,0
+a ray of x-rays produce a red image,0
+a ray of gamma-rays produces a black and white image,0
+a ray of gamma-rays produces a sphere,0
+an x-rays produces a black and white image,1
+an x-rays produces a red image,0
+a ray of fire produces the image of fire,0
+a ray of fire produces a red image,1
+a ray of sunlight produces a red image,0
+a ray of sunlight produces a bright image,1
+an x-ray produces an image of a cube,0
+a ray of x-rays produces an x - image,0
+a beam of light produces two images,0
+a ray of gamma-rays produces two images,0
+a hair clips is not found in the game,0
+a hair clips is not found in the store,0
+a hair clip from a hair salon can not be found in the game,0
+a hair clip from a hair salon can not be found in the shop,0
+a hair clip from a hair salon is not found in the store,0
+a hair clip from a hair salon is not found in the game,0
+a hair clip made from tortoiseshell can not be found in a salon,0
+a hair clip made from tortoiseshell can not be found in any shop,0
+a hair clip made from tortoiseshell is not found in real life,0
+a hair clip made from tortoiseshell is not found in any store,0
+a long hair clip is not found in the store,0
+a long hair clip is not found in the salon,0
+a long hair clip can not be found in the store,0
+a long hair clip can not be found in the salon,0
+a hair clip from a hardware store is not found in the hardware store,0
+a hair clip from a hardware store is not found in the salon,1
+a hair clip bought in a store can not be found in hair salons,0
+a hair clip bought in a store can not be found in a salon,0
+a hair clip with a jewel is not found in the shop,0
+a hair clip with a jewel is not found in the store,0
+a hair tie is not found in the game,0
+a hair tie is not found in the shop,0
+a hair clip from a hair salon can be found in the gift shop,0
+a hair clip from a hair salon can be found in the shop,0
+a hair clip from a hair salon is found in the house,0
+a hair clip from a hair salon is found in the kitchen,0
+a hair clip made from tortoiseshell can be found in a jewelry store,1
+a hair clip made from tortoiseshell can be found in a jewelry shop,1
+a hair clip from a hardware store can be found in the hardware aisle,0
+a hair clip from a hardware store can be found in the hardware section,0
+a long hair clip can be found in the wardrobe,0
+a long hair clip can be found in the kitchen,0
+a hair clip made from tortoiseshell is found in a jewelry store,0
+a hair clip made from tortoiseshell is found in a bar,0
+a hair band can be found in the shop,0
+a hair band can be found in the bathroom,1
+a hair tie can be found in the bathroom,1
+a hair tie can be found in the game,0
+a $5 hair clip can be found in the jewelry store,0
+a $5 hair clip can be found in the store,1
+a purple hair clip can be found in the kitchen,0
+a purple hair clip can be found in the bathroom,0
+a hair clips can be found in the bathroom,1
+a hair clips can be found in the barber shop,1
+a hair clip from a hair salon can be found in the Hair Salon,1
+a hair clip from a hair salon can be found in the bathroom,1
+a hair clip made from tortoiseshell can be found in a salon,0
+a hair clip made from tortoiseshell can be found in a barber shop,0
+a hair clip from a hair salon is found in the bathroom,0
+a hair clip from a hair salon is found in the Hair Salon,1
+a hair clip made from tortoiseshell is found in a salon,0
+a hair clip made from tortoiseshell is found in a barber shop,0
+a blue hair clip can be found in the barber shop,0
+a blue hair clip can be found in the salon,0
+a pink hair clip can be found in the barber shop,0
+a pink hair clip can be found in the salon,0
+a long hair clip can be found in the barber shop,1
+a long hair clip can be found in the salon,1
+a hair clip from a hardware store can be found in a drawer,0
+a hair clip from a hardware store can be found in a salon,0
+a $5 hair clip can be found in the hair shop,0
+a $5 hair clip can be found in a salon,1
+a hair clip made from silver can be found in the jewelry store,0
+a hair clip made from silver can be found in the salon,0
+a hair clip made from tortoiseshell can be found in hair salons,1
+a hair clip made from tortoiseshell is found in hair salons,0
+a long hair clip can be found in hair salons,1
+a $5 hair clip can be found in hair salons,0
+technologies are not designed to work in isolation,0
+a smart phone is not designed to function as a camera,0
+a mobile phone is not designed to make phone calls,0
+mobile phones are not designed for one purpose only,1
+a dishwasher is not designed to clean dishes,0
+a desktop computer is not designed to run Windows,0
+a desktop computer is not designed to run a video game,0
+a hard drive is not designed to store information,0
+a hard drive is not designed to last forever,1
+microwaves are not designed for one purpose only,0
+hard drives are not designed for one purpose only,1
+hard drives are not designed to last forever,1
+smart phones are not designed to do anything,0
+dishwashers are not designed for dishwasher use,0
+an androids can be designed to perform a wide range of tasks,1
+a car can be designed to perform many different tasks,1
+a mobile phone is designed to connect to the Internet,1
+a mobile phone is designed to do many things,1
+a camera can be designed to take a wide range of images,1
+a camera can be designed to capture a wide range of images,1
+a smart phone is designed to do many things,1
+a smart phone is designed to do many different things,1
+a mobile phone can be designed to perform many different functions,1
+a smart phone can be designed to perform many different functions,1
+a dishwasher is designed to do more than just wash dishes,0
+mobile phones are designed to connect to the Internet,1
+a dishwasher can be designed to perform many different functions,0
+technologies are designed to work in a specific environment,1
+a mobile phone is designed for one purpose,0
+a camera is designed to take pictures,1
+a camera can be designed to take pictures,1
+a car can be designed to go fast,1
+a car is designed to be driven,1
+mobile phones are designed for mobile communications,1
+mobile phones are designed for mobile communication,1
+a dishwasher is designed to clean,1
+a smart phone is designed to make calls and send texts,1
+a sewing machine is designed to sew garments,1
+a desktop computer is designed to perform a specific task,1
+livestock should not be kept in large groups,0
+livestock should not be kept in an enclosure,0
+cattles should not be kept in pastures,0
+cattles should not be kept in the pasture,0
+cattle should not be kept in large groups,0
+cattle should not be kept in close proximity,0
+small animals should not be kept in large groups,0
+small animals should not be kept in pastures,0
+buffaloes should not be kept in pastures,0
+buffaloes should not be kept in open pastures,0
+pigs should not be kept in large groups,0
+pigs should not be kept in an enclosure,0
+a cow should not be kept in a field,0
+a cow should not be kept in an open pasture,0
+chickens should not be kept in large groups,0
+chickens should not be kept in a cage,1
+cows should not be kept in large groups,0
+cows should not be kept in pastures,0
+sheep should not be kept in the same pasture as cattle,0
+sheep should not be kept in pastures,0
+cattles should be kept in an enclosed pen,0
+cattles should be kept in an enclosure,0
+small animals should be kept in a pen,0
+small animals should be kept in an enclosure,0
+buffaloes should be kept in separate pens,0
+buffaloes should be kept in an enclosure,0
+cattle should be kept in a pen,1
+cattle should be kept in a barn,1
+pigs should be kept in a fenced pen,1
+pigs should be kept in a barn,1
+sheep should be kept in a pen,1
+sheep should be kept in a separate pen,0
+cows should be kept in individual stalls,1
+cows should be kept in separate stalls,1
+horses should be kept in an enclosure,1
+horses should be kept in an enclosed area,0
+chickens should be kept in an enclosure,1
+chickens should be kept in the coop,1
+livestock should be kept in separate pens,1
+livestock should be kept in an enclosure,1
+a cow should be kept in an open pasture,1
+a cow should be kept in a fenced pasture,1
+cattles should be kept in the pasture,1
+cattles should be kept in an open field,1
+cows should be kept in an enclosed pasture,1
+cows should be kept in a fenced pasture,1
+cattle should be kept in an enclosed pasture,1
+cattle should be kept in a fenced pasture,1
+buffaloes should be kept in an open pasture,1
+buffaloes should be kept in grassland,1
+chickens should be kept in a fenced pasture,1
+chickens should be kept in a coop,1
+a horse should be kept in a paddock,1
+a horse should be kept in an open pasture,1
+a sheep should be kept in a fenced pasture,1
+a sheep should be kept in an open pasture,0
+a goat should be kept in a fenced pasture,1
+a goat should be kept in an open pasture,0
+a cow should be kept in an enclosed pasture,1
+cattles should be kept in pastures,1
+cows should be kept in pastures,1
+cattle should be kept in open pastures,1
+buffaloes should be kept in open pastures,1
+a horse should be kept in an open field,1
+a sheep should be kept in the pasture,1
+a goat should be kept in an enclosed pasture,1
+a will should not be filed with the county clerk's office,0
+a will should not be filed with the court,0
+a will is not filed with the court,0
+a will is not filed with the county court,0
+a last will and testament should not be filed with probate,0
+a codicil to a will should not be filed with the county court,0
+a codicil to a will should not be filed with the county,0
+a last will and testament is not filed with the county,0
+a will containing a codicil should not be filed with a county court,0
+a will containing a codicil should not be filed with a court,0
+a codicil to a will can not be filed with a county court,0
+a codicil to a will can not be filed with probate,0
+a will containing a codicil is not filed with a county court,0
+a will containing a codicil is not filed with probate courts,0
+a last will and testaments should not be filed with the probate judge,0
+a last will and testament should be filed with this office,0
+a last will and testament can be filed with a county court,0
+a codicil to a will should be filed with each county court,0
+a codicil to a will should be filed with this office,0
+a codicil to a will can be filed with a circuit court,1
+a codicil to a will can be filed with a county court,1
+a will containing a codicil can be filed with a circuit court judge,1
+a will containing a codicil can be filed with a court of probate,1
+a will containing a codicil should be filed with this office,0
+a will containing a codicil should be filed with a circuit court,1
+a last will and testaments should be filed with this office,0
+a will can be filed with the Court of Common Pleas,0
+a will can be filed with the county clerk,1
+a will should be filed with the county clerk's office,1
+a will should be filed with the county clerk,1
+a codicil to a will can be filed with county court,1
+a last will and testament can be filed with the county clerk's office,1
+a codicil to a will should be filed with a county court,1
+a codicil to a will should be filed with county court,1
+a will containing a codicil can be filed with a probate judge,1
+a will containing a codicil can be filed with county court,1
+a last will and testament should be filed with the county Probate Court,1
+a will containing a codicil should be filed with County Court,0
+a will containing a codicil should be filed with a county court,0
+a notary public's will can be filed with a county court,1
+a notary public's will can be filed with a probate judge,0
+a will made by an attorney can be filed with a county court,0
+a will made by an attorney can be filed with a probate judge,1
